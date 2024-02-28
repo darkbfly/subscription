@@ -525,7 +525,7 @@ export default defineAppConfig({
           activityIds:
             'com.tencent.mm.plugin.webview.ui.tools.MMWebViewUI',
           matches: '[text="点击阅读检测文章"]',
-          snapshotUrls: 'https://i.gkd.li/i/14427783',
+          snapshotUrls: 'https://i.gkd.li/import/14427783',
         }
       ],
     },
