@@ -514,5 +514,20 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 20,
+      name: '功能类-WxPusher-自动打开阅读',
+      rules: [
+        {
+          key: 0,
+          name: '8.0.44以下',
+          quickFind: true,
+          activityIds:
+            'com.tencent.mm.plugin.webview.ui.tools.MMWebViewUI',
+          matches: '[text="点击阅读检测文章"]',
+          snapshotUrls: 'https://i.gkd.li/snapshot/1709086393987',
+        }
+      ],
+    },
   ],
 });
