@@ -5,10 +5,10 @@
 在 GKD 内添加以下链接即可使用此规则
 
 ```txt
-https://fastly.jsdelivr.net/npm/@darkbfly/subscription
+https://fastly.jsdelivr.net/npm/@gkd-kit/subscription
 ```
 
-当前版本: v186
+当前版本: v187
 
 当前订阅文件已适配 610 个 APP, 共有 1372 规则组
 
@@ -18,4 +18,4 @@ https://fastly.jsdelivr.net/npm/@darkbfly/subscription
 
 ## 感谢以下开发者的贡献
 
-![img](https://contrib.rocks/image?repo=gkd-kit/subscription&_v=186)
+![img](https://contrib.rocks/image?repo=gkd-kit/subscription&_v=187)
