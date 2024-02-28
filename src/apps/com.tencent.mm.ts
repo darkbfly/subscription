@@ -515,7 +515,7 @@ export default defineAppConfig({
       ],
     },
     {
-      key: 20,
+      key: 21,
       name: '功能类-WxPusher-自动打开阅读',
       rules: [
         {
