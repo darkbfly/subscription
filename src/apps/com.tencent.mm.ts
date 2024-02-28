@@ -521,8 +521,9 @@ export default defineAppConfig({
         {
           key: 0,
           name: '8.0.44以下',
-          quickFind: true,
-          activityIds: 'com.tencent.mm.plugin.webview.ui.tools.MMWebViewUI',
+          quickFind: false,
+          activityIds:
+            'com.tencent.mm.plugin.webview.ui.tools.MMWebViewUI',
           matches: '[text="点击阅读检测文章"]',
           snapshotUrls: 'https://i.gkd.li/import/14427783',
         },
