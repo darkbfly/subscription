@@ -527,6 +527,19 @@ export default defineAppConfig({
           snapshotUrls: 'https://i.gkd.li/import/14427783',
         },
       ],
+    },{
+      key: 22,
+      name: '功能类-未备案-自动继续访问',
+      rules: [
+        {
+          key: 0,
+          name: '自动继续访问',
+          quickFind: false,
+          activityIds: 'com.tencent.mm.plugin.webview.ui.tools.MMWebViewUI',
+          matches: '[text="继续访问"]',
+          snapshotUrls: 'https://i.gkd.li/i/16135768',
+        },
+      ],
     },
   ],
 });
