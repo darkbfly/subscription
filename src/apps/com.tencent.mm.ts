@@ -537,7 +537,7 @@ export default defineAppConfig({
           quickFind: false,
           activityIds: 'com.tencent.mm.plugin.webview.ui.tools.MMWebViewUI',
           matches: '[text="继续访问"]',
-          snapshotUrls: 'https://i.gkd.li/i/16135768',
+          snapshotUrls: 'https://i.gkd.li/import/16135768',
         },
       ],
     },
