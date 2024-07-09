@@ -527,7 +527,8 @@ export default defineAppConfig({
           snapshotUrls: 'https://i.gkd.li/import/14427783',
         },
       ],
-    },{
+    },
+    {
       key: 22,
       name: '功能类-未备案-自动继续访问',
       rules: [
