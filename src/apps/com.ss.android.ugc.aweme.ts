@@ -209,7 +209,7 @@ export default defineAppConfig({
     },
     {
       key: 16,
-      name: '登录同意授权',
+      name: '功能类-登录-同意授权',
       desc: '点击【同意授权】',
       rules: '@[text="同意授权"][clickable=true]',
       snapshotUrls: 'https://i.gkd.li/import/16230400',
