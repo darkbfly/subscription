@@ -207,5 +207,12 @@ export default defineAppConfig({
       rules: '@[text="不感兴趣"][clickable=true] + [text="去商城搜索更多"]',
       snapshotUrls: 'https://i.gkd.li/import/13800207',
     },
+    {
+      key: 16,
+      name: '登录同意授权',
+      desc: '点击【同意授权】',
+      rules: '@[text="同意授权"][clickable=true]',
+      snapshotUrls: 'https://i.gkd.li/import/16230400',
+    },
   ],
 });
