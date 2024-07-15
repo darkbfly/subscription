@@ -1,6 +1,6 @@
 # 抖音
 
-存在 14 规则组 - [com.ss.android.ugc.aweme](/src/apps/com.ss.android.ugc.aweme.ts)
+存在 15 规则组 - [com.ss.android.ugc.aweme](/src/apps/com.ss.android.ugc.aweme.ts)
 
 ## 关闭青少年弹窗
 
@@ -96,3 +96,9 @@
 默认禁用 - 点击【不感兴趣】
 
 - [快照-0](https://i.gkd.li/import/13800207)
+
+## 功能类-登录-同意授权
+
+默认禁用 - 点击【同意授权】
+
+- [快照-0](https://i.gkd.li/import/16230400)
