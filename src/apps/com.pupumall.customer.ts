@@ -8,7 +8,7 @@ export default defineAppConfig({
       key: 0,
       name: '开屏广告-1',
       rules: '[vid="iv_close"]',
-      snapshotUrls: 'https://i.gkd.li/i/17595003',
+      snapshotUrls: 'https://i.gkd.li/import/17595003',
     },
   ],
 });
