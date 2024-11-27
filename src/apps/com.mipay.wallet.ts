@@ -1,7 +1,7 @@
 import { defineAppConfig } from '../types';
 
 export default defineAppConfig({
-  id: 'com.mipay.wallet	',
+  id: 'com.mipay.wallet',
   name: '小米钱包',
   groups: [
     {
