@@ -1,8 +1,8 @@
 import { defineAppConfig } from '../types';
 
 export default defineAppConfig({
-  id: 'com.miui.cloudservice',
-  name: '小米云服务',
+  id: 'com.mipay.wallet	',
+  name: '小米钱包',
   groups: [
     {
       key: 0,
