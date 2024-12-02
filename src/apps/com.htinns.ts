@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '扫码投屏',
+      name: '定位提示',
       desc: '关闭扫码投屏提醒弹窗',
       activityIds: [
         'com.htinns.reactnative.v2.RNContainerActivity',
