@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '钱包-广告',
+      name: '局部广告',
       activityIds:
         'com.xiaomi.jr.app.MiFinanceActivity',
       rules: '@ImageView < View < View < View < View < FrameLayout < [vid="flutter_container"]',
