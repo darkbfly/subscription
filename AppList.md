@@ -18,6 +18,7 @@
 | Gspace                 | [com.gspace.android](/docs/com.gspace.android.md)                                                                                                                 | 2      |
 | HMS Core               | [com.huawei.hwid](/docs/com.huawei.hwid.md)                                                                                                                       | 1      |
 | Instagram              | [com.instagram.android](/docs/com.instagram.android.md)                                                                                                           | 1      |
+| JMComic2               | [com.jiaohua_browser](/docs/com.jiaohua_browser.md)                                                                                                               | 2      |
 | JavDB                  | [xxx.pornhub.fuck](/docs/xxx.pornhub.fuck.md)                                                                                                                     | 1      |
 | Keep                   | [com.gotokeep.keep](/docs/com.gotokeep.keep.md)                                                                                                                   | 5      |
 | LIBVIO                 | [lab.vie.two](/docs/lab.vie.two.md)                                                                                                                               | 1      |
