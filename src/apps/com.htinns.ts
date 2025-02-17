@@ -14,7 +14,7 @@ export default defineAppConfig({
           matches: '@Button < View <2 View < View < View < View < View < View <2 View < WebView < WebView < FrameLayout < ViewGroup <3 ViewGroup < ViewGroup < FrameLayout < LinearLayout < [id="android:id/content"]',
           snapshotUrls: ['https://i.gkd.li/import/17971393'],
         },
-      ],,
+      ],
     },
   ],
 });
