@@ -17,6 +17,6 @@ export default defineAppConfig({
       activityIds: 'com.jiaohua_browser.MainActivity',
       rules: '[text=""]',
       snapshotUrls: 'https://i.gkd.li/import/18821525',
-    }
+    },
   ],
 });
