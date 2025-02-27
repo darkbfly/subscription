@@ -28,7 +28,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -54,7 +54,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '请求开启通知权限弹窗',
+      name: '卡片式广告',
       activityIds: [],
       quickFind: true,
       rules:

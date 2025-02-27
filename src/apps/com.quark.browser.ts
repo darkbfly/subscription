@@ -46,7 +46,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       actionMaximum: 1,
       activityIds: 'com.ucpro.BrowserActivity',

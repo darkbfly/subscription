@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 5,
-      name: '广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.julanling.dgq.main.view.MainFragmentActivity',
       rules:
         'FrameLayout > FrameLayout[childCount=1] > ImageView[width<80][height<80]',

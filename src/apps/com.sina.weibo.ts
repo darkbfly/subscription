@@ -108,7 +108,7 @@ export default defineAppConfig({
     },
     {
       key: 8,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -138,7 +138,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 9,
-      name: '请求开启通知弹窗',
+      name: '卡片式广告',
       desc: '自动点击暂不开启',
       quickFind: true,
       activityIds: ['com.sina.weibo.notifyguidev2.NotifyGuideV2Activity'],
@@ -197,7 +197,7 @@ export default defineAppConfig({
     },
     {
       key: 14,
-      name: '请求定位权限弹窗',
+      name: '卡片式广告',
       quickFind: true,
       rules: [
         {
@@ -264,7 +264,7 @@ export default defineAppConfig({
     },
     {
       key: 18,
-      name: 'APP评分弹窗',
+      name: '卡片式广告',
       desc: '点击【x】',
       quickFind: true,
       actionMaximum: 1,
@@ -276,7 +276,7 @@ export default defineAppConfig({
     {
       key: 19,
       quickFind: true,
-      name: '功能类-自动点击查看原图',
+      name: '功能类',
       rules: [
         {
           activityIds: 'com.sina.weibo.photoalbum.imageviewer.ImageViewer',

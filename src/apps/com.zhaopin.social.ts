@@ -21,7 +21,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '社区-弹窗广告',
+      name: '卡片式广告',
       activityIds: ['com.zhaopin.social.homepage.ZSC_MainTabActivity'],
       rules:
         'ImageView[clickable=true&&focusable=true] < FrameLayout + FrameLayout > ImageView[clickable=false&&focusable=false]',
@@ -29,7 +29,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '消息-开启消息通知',
+      name: '功能类-消息通知',
       desc: '自动点击关闭',
       enable: false,
       quickFind: true,

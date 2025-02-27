@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '开屏广告',
+      name: '功能类',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,
@@ -32,7 +32,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '消息页面-顶部广告',
+      name: '功能类',
       desc: '规则误触,待修复,需要快照准确定位', // 当从聊天界面点击链接进入网页时会误触
       activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
       rules: [
@@ -124,10 +124,10 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '频道页面广告',
+      name: '功能类',
       rules: [
         {
-          name: '弹窗广告',
+          name: '功能类',
           quickFind: true,
           activityIds: [
             'com.tencent.mobileqq.activity.SplashActivity',
@@ -141,7 +141,7 @@ export default defineAppConfig({
           ],
         },
         {
-          name: '右侧悬浮广告',
+          name: '功能类',
           activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
           matches:
             'FrameLayout[desc="发表帖子"] - LinearLayout[id!=null] >3 ImageView[id!=null][clickable=false] - View[id!=null][clickable=true]',
@@ -152,7 +152,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '顶部SVIP广告',
+      name: '功能类',
       desc: '消息界面-搜索框和消息记录之间的广告卡片,点击关闭右侧x',
       activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
       rules:
@@ -168,7 +168,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 5,
-      name: '好友热播',
+      name: '功能类',
       desc: '好友动态中的好友热播，自动选择“减少好友热播” - 默认关闭',
       activityIds: [
         'com.qzone.reborn.feedx.activity.QZoneFriendFeedXActivity',
@@ -197,7 +197,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '扫一扫-登录确认',
+      name: '功能类',
       desc: '自动点击登录。包括 PC 登录确认、QQ 互联登录确认。',
       quickFind: true,
       rules: [
@@ -230,7 +230,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 8,
-      name: '消息页面顶部-无法接收新消息通知',
+      name: '功能类-消息通知',
       desc: '消息界面-搜索框和消息记录之间的通知卡片,点击关闭右侧x',
       activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
       rules: 'RelativeLayout > [text^="当前无法接收"] + ImageView',
@@ -238,7 +238,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '我的等级-局部广告-请求推送通知弹窗',
+      name: '功能类',
       activityIds: 'com.tencent.mobileqq.activity.QQBrowserActivity',
       rules:
         'TextView[text="QQ等级规则"] + View > TextView[id=null&&text.length=0]',
@@ -247,7 +247,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '自动勾选原图',
+      name: '功能类',
       desc: '发送图片时自动勾选原图',
       activityIds: [
         'com.tencent.mobileqq.activity.SplashActivity',
@@ -265,7 +265,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '自动查看原图',
+      name: '功能类',
       desc: '查看图片时自动点击原图',
       activityIds: 'com.tencent.richframework.gallery.QQGalleryActivity',
       rules: '[desc="查看原图"][checked=false]',
@@ -277,7 +277,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 12,
-      name: 'QQ小世界评论区广告',
+      name: '功能类',
       desc: '点击广告-弹出原因框-关闭此条广告',
       activityIds: [
         'com.tencent.mobileqq.activity.SplashActivity',
@@ -300,7 +300,7 @@ export default defineAppConfig({
     },
     {
       key: 13,
-      name: 'QQ小程序开屏广告',
+      name: '功能类',
       desc: '点击右下角跳过',
       activityIds: [
         'com.tencent.mobileqq.mini.appbrand.ui.AppBrandUI',
@@ -319,7 +319,7 @@ export default defineAppConfig({
     },
     {
       key: 14,
-      name: '黄钻-弹窗广告',
+      name: '功能类',
       activityIds: 'com.tencent.mobileqq.activity.QQBrowserActivity',
       rules:
         'TextView[text.length=0&&clickable=true&&visibleToUser=true] + View > Button[text.length=0&&focusable=true]',
@@ -399,7 +399,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 19,
-      name: '内测邀请弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
       rules: [
@@ -413,7 +413,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 20,
-      name: '钱包-卡片广告',
+      name: '功能类',
       quickFind: true,
       activityIds: 'com.tencent.mobileqq.activity.SplashActivity',
       rules: [
@@ -432,11 +432,11 @@ export default defineAppConfig({
     },
     {
       key: 21,
-      name: '首页广告弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '元梦之星广告弹窗',
+          name: '卡片式广告',
           activityIds:
             'com.tencent.mobileqq.activity.QPublicTransFragmentActivity',
           matches:

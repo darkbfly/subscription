@@ -109,7 +109,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '升级弹窗',
+      name: '卡片式广告',
       enable: false,
       quickFind: true,
       matchTime: 10000,
@@ -127,7 +127,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '申请开启推送通知弹窗',
+      name: '卡片式广告',
       enable: false,
       quickFind: true,
       matchTime: 10000,
@@ -142,7 +142,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '请求好评弹窗',
+      name: '卡片式广告',
       activityIds:
         'com.zmzx.college.search.activity.camerasdk.ZybCameraSDKActivity',
       quickFind: true,
@@ -152,7 +152,7 @@ export default defineAppConfig({
     },
     {
       key: 8,
-      name: '局部广告-教材内弹窗广告1',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: [
         'com.bytedance.sdk.openadsdk.stub.activity.Stub_Standard_Portrait_Activity',
@@ -162,7 +162,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '局部广告-教材内弹窗广告2',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: [
         'com.zmzx.college.search.activity.booksearch.result.activity.AnswerBrowseActivity',

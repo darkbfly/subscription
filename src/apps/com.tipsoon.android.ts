@@ -6,11 +6,11 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '弹窗广告-1',
+          name: '卡片式广告',
           activityIds: 'com.tipsoon.android.activity.MainActivity',
           matches:
             '[id="com.tipsoon.android:id/cardview"] + [id="com.tipsoon.android:id/img_close"]',

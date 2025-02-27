@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '升级弹窗',
+      name: '卡片式广告',
       quickFind: true,
       enable: false,
       activityIds: ['com.bw.zsch.MainActivityTab'],

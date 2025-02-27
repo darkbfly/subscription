@@ -16,7 +16,7 @@ export default defineAppConfig({
             'ViewGroup[childCount=2] > ImageView[clickable=true] + ImageView[clickable=true]',
         },
         {
-          name: '云收藏弹窗广告',
+          name: '卡片式广告',
           matches:
             'ViewGroup > @ImageView[clickable=true] -n TextView[text="云收藏"]',
         },

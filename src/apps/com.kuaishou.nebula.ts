@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '青少年弹窗',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'app',
       activityIds: 'com.yxcorp.gifshow.HomeActivity',

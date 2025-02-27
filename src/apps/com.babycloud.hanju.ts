@@ -29,7 +29,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '视频播放时的弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,

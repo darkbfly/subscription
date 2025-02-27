@@ -37,7 +37,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: 'VIP弹窗',
+      name: '卡片式广告',
       rules: [
         {
           matches:

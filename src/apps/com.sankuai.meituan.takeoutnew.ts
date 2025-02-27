@@ -17,7 +17,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '关闭美食广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.sankuai.waimai.platform.mach.dialog.DynamicDialog',
       rules: [
         '@[desc="关闭"][clickable=true] > ImageView', // 1686969062508
@@ -25,13 +25,13 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '付款后广告弹窗',
+      name: '卡片式广告',
       activityIds:
         'com.sankuai.waimai.bussiness.order.detail.WMOrderDetailActivity',
       rules: [
         {
           key: 0,
-          name: '美团买药弹窗-点击[暂时放弃]',
+          name: '卡片式广告',
           matches:
             '[text="送亲友"] <2 FrameLayout[childCount=2] > [text="暂时放弃"][clickable=true]',
         },

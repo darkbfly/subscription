@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: '首页-广告弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.duokan.reader.DkMainActivity',
       rules: '[id="com.duokan.reader:id/store_feed_layer_close"]',
@@ -14,11 +14,11 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '小说推荐弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 1,
-          name: '退出阅读时的推荐弹窗',
+          name: '卡片式广告',
           activityIds: 'com.duokan.reader.DkMainActivity',
           quickFind: true,
           matches:

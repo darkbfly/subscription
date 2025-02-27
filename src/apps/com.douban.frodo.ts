@@ -132,7 +132,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '关闭评分反馈弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.douban.frodo.activity.SplashActivity',
       rules: {
@@ -195,7 +195,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '个性化内容推荐弹窗',
+      name: '卡片式广告',
       desc: '首页底部-个性化内容推荐弹窗-点击卡片右上角x直接关闭',
       rules: {
         activityIds: ['com.douban.frodo.activity.SplashActivity'],
@@ -206,7 +206,7 @@ export default defineAppConfig({
     },
     {
       key: 10, // 已包含key13内容
-      name: '弹窗广告',
+      name: '卡片式广告',
       desc: '浏览详情时弹窗广告,点击右上角x',
 
       rules: [

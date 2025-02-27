@@ -23,7 +23,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '关闭广告弹窗',
+      name: '卡片式广告',
       desc: '点击 关闭广告按钮 之后出现的广告弹窗',
       activityIds: [
         'com.zhihu.android.ContentActivity',
@@ -188,7 +188,7 @@ export default defineAppConfig({
         {
           preKeys: [10],
           key: 100,
-          name: '反馈弹窗-点击“不感兴趣”',
+          name: '卡片式广告',
           matches:
             '[id="com.zhihu.android:id/recycler_view"] > FrameLayout >(3) [text$="不感兴趣"]',
           snapshotUrls: ['https://i.gkd.li/import/12647541'],
@@ -212,7 +212,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '推送通知弹窗',
+      name: '卡片式广告',
       desc: '推送通知弹窗-点击x按钮',
       activityIds: 'com.zhihu.android.app.ui.dialog.d',
       rules: [
@@ -232,7 +232,7 @@ export default defineAppConfig({
     },
     {
       key: 12,
-      name: '会员页面-广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.zhihu.android.app.ui.activity.MainActivity',
       rules: [
         '[id="com.zhihu.android:id/image"] < RelativeLayout + [id="com.zhihu.android:id/dismiss"]',

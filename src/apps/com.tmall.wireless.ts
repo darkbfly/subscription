@@ -23,7 +23,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '弹窗广告',
+      name: '卡片式广告',
       activityIds: [
         'com.tmall.wireless.maintab.module.TMMainTabActivity',
         'com.tmall.wireless.turboweb.container.TurboWebViewActivity',

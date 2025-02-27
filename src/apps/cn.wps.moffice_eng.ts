@@ -37,7 +37,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页-弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: [
         'cn.wps.moffice.main.AfterLoginActivity',

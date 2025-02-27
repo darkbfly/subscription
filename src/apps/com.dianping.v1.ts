@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '主页推荐关注弹窗',
+      name: '卡片式广告',
       activityIds: ['com.dianping.main.guide.SplashActivity'],
       rules:
         'FrameLayout[id="android:id/content"] >2 FrameLayout > ImageView + FrameLayout[id=null][desc="关闭"][clickable=true]',
@@ -34,7 +34,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,

@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       desc: '关闭右侧飘窗广告',
       quickFind: true,
       activityIds:
@@ -30,7 +30,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '弹窗广告_底部弹窗',
+      name: '卡片式广告',
       activityIds: 'com.tencent.qqmusiccommon.hybrid.HybridViewActivity',
       rules: 'ViewGroup > @ViewGroup + ViewGroup[childCount=5]',
       snapshotUrls: ['https://i.gkd.li/import/13304343'],
@@ -46,7 +46,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '首页-弹窗广告',
+      name: '卡片式广告',
       activityIds: 'com.tencent.qqmusiclite.activity.MainActivity',
       quickFind: true,
       rules: '[id="com.miui.player:id/iv_close_dialog_button"]',
@@ -55,7 +55,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '会员过期续费弹窗',
+      name: '卡片式广告',
       activityIds: 'com.tencent.qqmusiccommon.hybrid.HybridViewActivity',
       rules: '[id=null][desc="关闭弹框按钮"][clickable=true]',
       snapshotUrls: 'https://i.gkd.li/import/12700955',

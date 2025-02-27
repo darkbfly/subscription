@@ -17,7 +17,7 @@ export default defineAppConfig({
     },
     {
       key: 0,
-      name: '内部弹窗广告',
+      name: '卡片式广告',
       desc: '点击右上角x按钮',
       actionDelay: 750,
       activityIds: [
@@ -61,7 +61,7 @@ export default defineAppConfig({
     {
       key: 1,
       actionDelay: 500,
-      name: '内部弹窗广告-2',
+      name: '卡片式广告',
       desc: '点击右上角文字[跳过],此广告相同节点存在两种卡片,一种能准确关闭,另外一种(出现较少)节点位置与实际位置不同故不能关闭,如误触可关闭',
       activityIds: 'com.sigmob.sdk.base.common.TransparentAdActivity',
       snapshotUrls: [

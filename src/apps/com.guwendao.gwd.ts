@@ -13,7 +13,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '第三方 SDK 广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.guwendao.gwd.MainActivity',
       rules: [
         // 腾讯广告

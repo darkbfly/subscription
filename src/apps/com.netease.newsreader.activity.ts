@@ -14,7 +14,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '系统推送弹窗',
+      name: '卡片式广告',
       desc: '检测到未开启系统推送-点击暂不开启',
       activityIds:
         'com.netease.newsreader.common.base.activity.SingleFragmentActivity',

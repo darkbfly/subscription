@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 3,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -27,7 +27,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       desc: '会出现在更多页面、播放页面',
       quickFind: true,
       rules: [
@@ -46,7 +46,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '播放页面-弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           activityIds: 'com.tvmain.mvp.view.activity.VodPlayerActivity',

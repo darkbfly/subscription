@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '订购 RAR 弹窗',
+      name: '卡片式广告',
       desc: '自动点击【放弃】',
       activityIds: 'com.rarlab.rar.MainActivity',
       rules: '[text="订购"] + [text="放弃"]',

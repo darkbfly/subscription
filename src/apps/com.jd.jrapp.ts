@@ -41,7 +41,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '满意度打分弹窗',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'activity',
       rules: '[text*="满意度打几分"] + ImageView',

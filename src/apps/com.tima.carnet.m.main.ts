@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: '每日弹窗广告',
+      name: '卡片式广告',
       activityIds: [
         'com.tima.carnet.m.main.lib.common.dialog.TimaLoadingDialog',
         'com.tima.carnet.m.main.app.main.NoticeActivity',

@@ -7,13 +7,13 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '活动弹窗',
+      name: '卡片式广告',
       desc: '关闭各种活动弹窗信息',
       quickFind: true,
       rules: [
         {
           key: 1,
-          name: '一刻相册推广弹窗',
+          name: '卡片式广告',
           activityIds: 'com.baidu.netdisk.ui.MainActivity',
           matches:
             '[id="com.baidu.netdisk:id/cl_content"] - [id="com.baidu.netdisk:id/iv_close"]',
@@ -21,7 +21,7 @@ export default defineAppConfig({
         },
         {
           key: 2,
-          name: 'VIP弹窗',
+          name: '卡片式广告',
           activityIds: 'com.baidu.netdisk.business.guide.dialog.lifeproduct.', // LifeV10GuideDialog
           matches:
             '[id="com.baidu.netdisk:id/view_content_bg2"] - [id="com.baidu.netdisk:id/iv_close"]',
@@ -56,7 +56,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '相册页面-激活无限空间弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds:
         'com.baidu.netdisk.cloudimage.ui.album.AlbumGuideOneImageDialog',
@@ -89,7 +89,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 8,
-      name: '开启消息通知弹窗',
+      name: '卡片式广告',
       desc: '自动点击关闭',
       quickFind: true,
       activityIds: 'com.baidu.netdisk.ui.MainActivity',
@@ -99,7 +99,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '看视频免费享极速下载弹窗',
+      name: '卡片式广告',
       desc: '自动点击x按钮',
       quickFind: true,
       activityIds: 'com.baidu.netdisk.ui.MainActivity',
@@ -110,7 +110,7 @@ export default defineAppConfig({
     {
       key: 11,
       quickFind: true,
-      name: '幸运券包弹窗',
+      name: '卡片式广告',
       desc: '自动点击关闭',
       activityIds: 'com.baidu.netdisk.ui.MainActivity',
       rules: [

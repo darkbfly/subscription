@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -52,7 +52,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '开启消息弹窗',
+      name: '卡片式广告',
       desc: '自动点击关闭。',
       enable: false,
       quickFind: true,
@@ -64,7 +64,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '请求好评弹窗',
+      name: '卡片式广告',
       activityIds: 'com.taobao.cainiao.logistic.ui.view.LogisticDetailActivity',
       rules: '@[text="取消"] + [text="好评"]',
       snapshotUrls: 'https://i.gkd.li/import/13692761',

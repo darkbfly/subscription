@@ -41,7 +41,7 @@ export default defineAppConfig({
       ],
     },
     {
-      name: '自动点击原图',
+      name: '功能类',
       enable: false,
       key: 3,
       actionMaximum: 1,

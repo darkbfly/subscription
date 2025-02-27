@@ -140,7 +140,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '关闭青少年模式弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.ximalaya.ting.android.host.activity.MainActivity',
       snapshotUrls: 'https://i.gkd.li/import/12506209',
@@ -200,7 +200,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '首页-专辑订阅推荐弹窗',
+      name: '卡片式广告',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,
@@ -212,7 +212,7 @@ export default defineAppConfig({
     },
     {
       key: 11,
-      name: '弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.ximalaya.ting.android.host.activity.MainActivity',
       rules:

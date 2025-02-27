@@ -141,7 +141,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '评价弹窗',
+      name: '卡片式广告',
       quickFind: true,
       matchTime: 10000,
       enable: false,
@@ -156,7 +156,7 @@ export default defineAppConfig({
     {
       key: 5,
       quickFind: true,
-      name: '通知提示-请求通知权限弹窗',
+      name: '卡片式广告',
       desc: '点击"Not now"',
       rules: [
         {

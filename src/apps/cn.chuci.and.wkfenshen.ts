@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '购买会员弹窗',
+      name: '卡片式广告',
       activityIds: 'cn.chuci.and.wkfenshen.ActMain',
       rules: [
         {

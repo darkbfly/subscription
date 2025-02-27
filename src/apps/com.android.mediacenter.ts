@@ -29,7 +29,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: 'VIP广告弹窗',
+      name: '卡片式广告',
       desc: '点击底部圆形x图标关闭弹窗',
       activityIds: 'com.android.mediacenter.MainActivity',
       quickFind: true,

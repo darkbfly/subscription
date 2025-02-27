@@ -39,7 +39,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '公告',
+      name: '通知提示-公告',
       activityIds: 'com.magicalstory.AppStore.main.MainActivity',
       quickFind: true,
       matchTime: 10000,

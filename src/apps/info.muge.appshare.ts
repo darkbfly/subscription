@@ -67,7 +67,7 @@ export default defineAppConfig({
     {
       key: 2,
       quickFind: true,
-      name: '功能类-自动签到',
+      name: '功能类-签到',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',

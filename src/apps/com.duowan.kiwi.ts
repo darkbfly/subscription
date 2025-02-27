@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.duowan.kiwi.homepage.Homepage', // 缺少快照
         'com.duowan.kiwi.immersepage.impl.ImmersePageActivity',
@@ -72,7 +72,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,

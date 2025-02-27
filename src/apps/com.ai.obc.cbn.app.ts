@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: '版本弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.ai.obc.cbn.app.ui.other.activity.MainActivity',
         'com.ai.obc.cbn.app.ui.main.fragment.MainFragment',

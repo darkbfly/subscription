@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.cctv.cctv5ultimate.activity.MainActivity',
       rules: [

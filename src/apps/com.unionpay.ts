@@ -56,7 +56,7 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '定位权限悬浮弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',
@@ -68,7 +68,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '访问位置请求弹窗',
+      name: '卡片式广告',
       desc: '自动点击【不允许】。默认关闭，请手动开启',
       quickFind: true,
       activityIds: ['com.unionpay.base.UPDialog'],
@@ -83,7 +83,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 12,
-      name: '开启消息通知弹窗',
+      name: '卡片式广告',
       desc: '默认关闭，请手动开启',
       quickFind: true,
       activityIds: ['com.unionpay.base.UPDialog'],
@@ -112,7 +112,7 @@ export default defineAppConfig({
     },
     {
       key: 14,
-      name: '我的页面-广告弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       activityIds: 'com.unionpay.activity.UPActivityMain',
@@ -123,7 +123,7 @@ export default defineAppConfig({
     {
       key: 15,
       quickFind: true,
-      name: '全屏广告-领取优惠弹窗',
+      name: '卡片式广告',
       desc: '点击X',
       rules: [
         {

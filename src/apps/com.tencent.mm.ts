@@ -155,7 +155,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '功能类-第三方APP申请使用授权弹窗',
+      name: '卡片式广告',
       desc: '自动点击允许,但由于此界面可以额外新建昵称头像,默认不启用',
       quickFind: true,
       matchTime: 10000,
@@ -267,7 +267,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 7,
-      name: '功能类-自动选中发送原图',
+      name: '功能类',
       desc: '图片和视频选择器-自动选中底部中间的发送原图',
       quickFind: true,
       activityIds: [
@@ -325,7 +325,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 9,
-      name: '功能类-自动查看原图',
+      name: '功能类',
       desc: '自动点击底部左侧[查看原图（*M）]按钮',
       quickFind: true,
       activityIds: 'com.tencent.mm.ui.chatting.gallery.ImageGalleryUI',
@@ -377,7 +377,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 13,
-      name: '全屏广告-提瓦特助手小程序-弹窗广告',
+      name: '卡片式广告',
       activityIds: 'com.tencent.mm.plugin.appbrand.ui.AppBrandUI',
       rules: [
         {

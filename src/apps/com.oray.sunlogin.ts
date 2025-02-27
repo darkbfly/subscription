@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '全屏广告-瓜子会员弹窗',
+      name: '卡片式广告',
       desc: '点击右上角[关闭]',
       quickFind: true,
       activityIds: 'com.oray.sunlogin.application.Main',

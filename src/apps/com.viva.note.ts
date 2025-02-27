@@ -25,7 +25,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '应用内弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.sigmob.sdk.base.common.TransparentAdActivity',
         'com.baidu.mobads.sdk.api.MobRewardVideoActivity',

@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 3,
-      name: '评分弹窗',
+      name: '卡片式广告',
       desc: '自动点击 LATER 。',
       rules: [
         {

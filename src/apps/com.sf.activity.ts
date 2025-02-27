@@ -24,7 +24,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '专属月报弹窗',
+      name: '卡片式广告',
       activityIds: 'com.sf.activity.MainActivity',
       rules: ['[id="MonthReportDialogCloseBtn"] > ImageView'],
       snapshotUrls: 'https://i.gkd.li/import/12642441',

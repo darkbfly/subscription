@@ -48,7 +48,7 @@ export default defineAppConfig({
           preKeys: 2,
           key: 3,
           quickFind: true,
-          name: '关闭弹窗',
+          name: '卡片式广告',
           matches: '[id="com.google.android.gm:id/my_ad_center_close_icon"]',
           snapshotUrls: 'https://i.gkd.li/import/13263279',
         },

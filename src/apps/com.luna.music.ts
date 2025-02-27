@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: 'VIP弹窗',
+      name: '卡片式广告',
       desc: '直接关闭所有底部半屏弹窗',
       quickFind: true,
       actionMaximum: 1,

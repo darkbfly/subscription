@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.mobile.businesshall.ui.common.RecommendPopupActivity',
       rules: '[id="com.miui.virtualsim:id/img_close_btn"]',
       snapshotUrls: 'https://i.gkd.li/import/13238467',

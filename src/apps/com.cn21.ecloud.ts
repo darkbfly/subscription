@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '首页弹窗',
+      name: '卡片式广告',
       activityIds: ['com.cn21.ecloud.activity.MainPageActivity'],
       rules:
         '[id="com.cn21.ecloud:id/content_frame"] >n FrameLayout >n @ImageView[desc=null] - View < View[childCount=2]',

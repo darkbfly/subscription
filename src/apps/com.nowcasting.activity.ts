@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告_VIP',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.nowcasting.activity.WeatherActivity',
       rules: [
@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '弹窗广告_外部应用',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.nowcasting.activity.WeatherActivity',
       rules: [

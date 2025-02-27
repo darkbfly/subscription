@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '红包弹窗',
+      name: '卡片式广告',
       desc: '点击关闭',
       rules: [
         {

@@ -28,11 +28,11 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '首页弹窗',
+          name: '卡片式广告',
           activityIds: 'com.sinovatech.unicom.basic.ui.activity.MainActivity',
           matches:
             '[text="首页弹窗"] >n View + TextView + Image[clickable=true]',

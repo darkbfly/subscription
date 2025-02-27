@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       activityIds:
         'com.lenovo.leos.appstore.activities.NotificationGuideActivity',
       quickFind: true,

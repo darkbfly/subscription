@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       key: 1,
       quickFind: true,
-      name: '全屏广告-抽奖弹窗',
+      name: '卡片式广告',
       desc: '点击X',
       rules: [
         {

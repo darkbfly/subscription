@@ -77,7 +77,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '广告弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -118,7 +118,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 6,
-      name: '首页-底部横幅广告',
+      name: '局部广告-底部横幅广告',
       activityIds: 'com.jingdong.app.mall.MainFrameActivity',
       rules: 'ImageView < FrameLayout - FrameLayout > ImageView[desc="关闭"]',
       snapshotUrls: [
@@ -130,7 +130,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 7,
-      name: '首页弹窗-打开通知',
+      name: '卡片式广告',
       desc: '自动点击正下方的【x】',
       quickFind: true,
       rules: [
@@ -163,7 +163,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 12,
-      name: '购物车界面-支付成功广告弹窗',
+      name: '卡片式广告',
       desc: '自动点击正下方的【x】',
       quickFind: true,
       rules: [

@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '公告弹窗',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'app',
       quickFind: true,
@@ -25,7 +25,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '开通会员弹窗',
+      name: '卡片式广告',
       activityIds: 'com.one.downloadtools.ui.activity.HomeActivity',
       rules: '[text^="开通会员"] < * +n * > [text="暂不"]',
       snapshotUrls: 'https://i.gkd.li/import/13392112',

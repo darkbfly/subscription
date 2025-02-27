@@ -90,7 +90,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '观看视频去除广告提示弹窗',
+      name: '卡片式广告',
       activityIds: 'so.tita.view.activity.HomeActivity',
       rules: '@[text="取 消"] + View + [text="确 定"]',
       snapshotUrls: 'https://i.gkd.li/import/12800350',

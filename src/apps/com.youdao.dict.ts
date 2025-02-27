@@ -37,7 +37,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '首页-弹窗广告',
+          name: '卡片式广告',
           activityIds: [
             'com.youdao.dict.activity.MainActivity',
             'com.youdao.dict.activity.DictSplashActivity',
@@ -51,7 +51,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '学习页面-弹窗广告',
+          name: '卡片式广告',
           activityIds: [
             'com.youdao.dict.edu.main.MainPopDialog',
             'com.youdao.dict.activity.MainActivity',
@@ -62,7 +62,7 @@ export default defineAppConfig({
         },
         {
           key: 2,
-          name: '抽奖机会-弹窗广告',
+          name: '卡片式广告',
           activityIds: 'com.youdao.dict.activity.DictSplashActivity',
           quickFind: true,
           matches: '[vid="skip_bottom_view"]',
@@ -72,7 +72,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: 'VIP-弹窗',
+      name: '卡片式广告',
       activityIds: 'com.youdao.dict.vip.activity.RecallSevenDayVipActivity',
       rules: '@ImageView[id="com.youdao.dict:id/iv_close"]',
       quickFind: true,
@@ -80,7 +80,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '评价弹窗',
+      name: '卡片式广告',
       activityIds: 'com.youdao.dict.activity.MainActivity',
       quickFind: true,
       resetMatch: 'app',

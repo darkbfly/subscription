@@ -22,7 +22,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       activityIds: 'com.maidu.gkld.ui.main.MainActivity',
       rules:
         '[id="com.maidu.gkld:id/ll_open_app_notice"] + [id="com.maidu.gkld:id/iv_cancel"]',

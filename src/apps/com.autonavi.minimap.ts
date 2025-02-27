@@ -65,7 +65,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 12,
-      name: '加油页面-优惠券弹窗',
+      name: '卡片式广告',
       activityIds: 'com.autonavi.map.activity.NewMapActivity',
       rules:
         '@ImageView < [desc="关闭"][clickable=true] - ViewGroup > ViewGroup > ViewGroup > View[text="立即领取"]',

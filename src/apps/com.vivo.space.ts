@@ -18,7 +18,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '消息通知弹窗',
+      name: '卡片式广告',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,

@@ -18,11 +18,11 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '首页-局部广告-请求推送通知弹窗',
+          name: '卡片式广告',
           activityIds: 'com.ss.android.article.news.activity.MainActivity',
           matches:
             'FrameLayout > FrameLayout > FrameLayout[childCount=2] > @ImageView + ImageView[clickable=true][visibleToUser=true]',
@@ -30,7 +30,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '视频页-局部广告-请求推送通知弹窗',
+          name: '卡片式广告',
           activityIds: 'com.ss.android.ugc.detail.activity.TikTokActivity',
           matches:
             'FrameLayout > FrameLayout > FrameLayout[childCount=2] > ImageView + ImageView[clickable=true][visibleToUser=true]',
@@ -41,7 +41,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       activityIds: ['com.ss.android.article.news.activity.MainActivity'],
       rules: [
         {
@@ -154,7 +154,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 13,
-      name: '底部话题推荐弹窗',
+      name: '卡片式广告',
       activityIds: ['com.ss.android.article.news.activity.MainActivity'],
       rules: [
         {
@@ -192,7 +192,7 @@ export default defineAppConfig({
     {
       key: 15,
       quickFind: true,
-      name: '局部广告-底部热榜弹窗',
+      name: '卡片式广告',
       desc: '点击X',
       rules: [
         {

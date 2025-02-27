@@ -97,18 +97,18 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '弹窗广告',
+      name: '卡片式广告',
       activityIds: 'com.netease.cloudmusic.activity.MainActivity',
       rules: [
         {
           key: 0,
-          name: '音乐专辑售卖广告弹窗',
+          name: '卡片式广告',
           matches: 'WebView >n View > TextView + TextView + TextView',
           snapshotUrls: 'https://i.gkd.li/import/13188737',
         },
         {
           key: 1,
-          name: '京东双十一广告弹窗',
+          name: '卡片式广告',
           matches: '[text="广告"] < ViewGroup + ImageView',
           snapshotUrls: 'https://i.gkd.li/import/13229016',
         },
@@ -123,7 +123,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 5,
-      name: 'VIP 弹窗',
+      name: '卡片式广告',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,
@@ -142,7 +142,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '专属优惠-VIP续费弹窗',
+          name: '卡片式广告',
           activityIds: 'com.netease.cloudmusic.activity.MainActivity',
           matches: '@ImageView - ViewGroup > [text="解锁千万级会员曲库"]',
           snapshotUrls: 'https://i.gkd.li/import/13228955',
@@ -156,7 +156,7 @@ export default defineAppConfig({
         },
         {
           key: 3,
-          name: '黑胶过期-VIP续费弹窗',
+          name: '卡片式广告',
           activityIds:
             'com.netease.cloudmusic.music.biz.rn.activity.MainProcessLayerReactNativeActivity',
           matches:
@@ -165,7 +165,7 @@ export default defineAppConfig({
         },
         {
           key: 4,
-          name: '搭配会员音效-VIP支付弹窗',
+          name: '卡片式广告',
           activityIds: 'com.netease.cloudmusic.activity.MainActivity',
           matches:
             '[text*="搭配会员音效"] + @ViewGroup[childCount=1] > ImageView',
@@ -236,7 +236,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '免费听弹窗',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'app',
       activityIds: 'com.netease.cloudmusic.activity.MainActivity',
@@ -246,7 +246,7 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '功能升级弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -268,7 +268,7 @@ export default defineAppConfig({
     {
       key: 11,
       quickFind: true,
-      name: '全屏广告-播放页赞赏好音乐弹窗',
+      name: '卡片式广告',
       desc: '点击X',
       rules: [
         {

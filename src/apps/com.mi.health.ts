@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '好评弹窗',
+      name: '卡片式广告',
       activityIds: 'com.xiaomi.fitness.baseui.common.CommonBaseActivity',
       actionMaximum: 1,
       resetMatch: 'app',
@@ -26,7 +26,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '活动弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,

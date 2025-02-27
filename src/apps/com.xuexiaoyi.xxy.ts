@@ -70,7 +70,7 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '升级弹窗',
+      name: '卡片式广告',
       desc: '自动点击以后再说。',
       activityIds: 'com.xuexiaoyi.entrance.main.MainActivity',
       enable: false,

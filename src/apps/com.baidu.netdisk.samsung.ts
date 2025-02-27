@@ -8,7 +8,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
       desc: '点击右上角x图标按钮',
       activityIds: 'com.baidu.netdisk.ui.MainActivity',
       rules:

@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 0,
-      name: '弹窗广告',
+      name: '卡片式广告',
       activityIds: 'com.ky.medical.reference.promotion.AdDialogActivity',
       rules: [
         {

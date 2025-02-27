@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       activityIds: 'cn.xiaochuankeji.tieba.ui.home.page.PageMainActivity',
       rules: [
         {
@@ -52,7 +52,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '系统通知弹窗',
+      name: '卡片式广告',
       desc: '系统通知弹窗，点击暂不开启',
       activityIds: 'cn.xiaochuankeji.tieba.ui.home.page.PageMainActivity',
       rules: [

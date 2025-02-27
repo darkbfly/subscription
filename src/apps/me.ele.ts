@@ -22,11 +22,11 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '红包弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '红包弹窗1',
+          name: '卡片式广告',
           quickFind: true,
           activityIds: [
             'me.ele.component.pops2.Pops2MistDialog',
@@ -48,7 +48,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '红包弹窗2',
+          name: '卡片式广告',
           activityIds: 'me.ele.newretail.pack.ui.activity.PackActivity',
           matches: '[desc$="今日红包"] +(n) [desc$="关闭"][clickable=true]',
           snapshotUrls: 'https://i.gkd.li/import/12650713',
@@ -57,7 +57,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '活动弹窗',
+      name: '卡片式广告',
       quickFind: true,
       rules: [
         {
@@ -100,7 +100,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '付款后广告弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'me.ele.component.pops2.TransparentAppWebActivity',
       rules: 'bb Button[text="关闭"]',
@@ -108,7 +108,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '吃货卡续费弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'me.ele.component.webcontainer.view.AppUCWebActivity',
       rules: '@View + View >2 [text="买校园版超级吃货卡"]',
@@ -116,7 +116,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '首页-底部局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       activityIds: 'me.ele.application.ui.Launcher.LauncherActivity',
       rules:
         'LinearLayout >n FrameLayout >n ViewGroup[childCount=3] + ViewGroup[clickable=true]',

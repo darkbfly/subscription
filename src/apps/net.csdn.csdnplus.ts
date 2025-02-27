@@ -79,7 +79,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '局部广告-关闭好评弹窗',
+      name: '卡片式广告',
       resetMatch: 'app',
       actionMaximum: 1,
       quickFind: true,
@@ -94,7 +94,7 @@ export default defineAppConfig({
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',
-      name: '全屏广告-请求推送通知弹窗',
+      name: '卡片式广告',
       activityIds: 'net.csdn.csdnplus.activity.MainActivity',
       rules: {
         matches: [

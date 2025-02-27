@@ -7,11 +7,11 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '红包弹窗',
+          name: '卡片式广告',
           activityIds: 'net.duohuo.magappx.main.IndexTabActivity',
           quickFind: true,
           matches: '[id="com.badmintoncn.bbs:id/iv_close_ad"]',

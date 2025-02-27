@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '手表安全守护弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',

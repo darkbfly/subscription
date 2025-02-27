@@ -55,7 +55,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '订阅局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       activityIds:
         'com.google.android.apps.youtube.app.watchwhile.MainActivity',
       rules:

@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '关闭青少年弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',
@@ -54,7 +54,7 @@ export default defineAppConfig({
 
       quickFind: true,
       activityIds: ['com.ss.android.ugc.aweme.main.MainActivity'],
-      name: '关闭朋友推荐弹窗',
+      name: '卡片式广告',
       rules: '[text="朋友推荐"] +2 [id="com.ss.android.ugc.aweme:id/close"]',
       snapshotUrls: [
         'https://i.gkd.li/import/12525387',
@@ -85,7 +85,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '广告弹窗',
+      name: '卡片式广告',
       quickFind: true,
       rules:
         '[id="android:id/content"] >2 RelativeLayout[childCount<=5] > @ImageView[clickable=true][id!=null] - TextView[text="广告"][id!=null]',
@@ -131,7 +131,7 @@ export default defineAppConfig({
           snapshotUrls: 'https://i.gkd.li/import/12675129',
         },
         {
-          name: '半幅弹窗',
+          name: '卡片式广告',
           matches: '[text="及时获得消息提醒"] +2 [text="暂不开启"]',
           snapshotUrls: 'https://i.gkd.li/import/13669790',
         },
@@ -140,7 +140,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '自动勾选原图',
+      name: '功能类',
       desc: '聊天发送图片时自动勾选原图',
       quickFind: true,
       activityIds:

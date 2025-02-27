@@ -13,7 +13,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '关闭打卡红包弹窗',
+      name: '卡片式广告',
       activityIds: 'com.shuqi.common',
       rules: '[id="com.shuqi.controller:id/bottomCloseImg"]',
       snapshotUrls: 'https://i.gkd.li/import/12513822',

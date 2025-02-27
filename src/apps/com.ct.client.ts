@@ -29,7 +29,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       desc: '会出现在首页、查询办理页面',
       quickFind: true,
       activityIds: [
@@ -52,7 +52,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '业务办理-弹窗广告',
+      name: '卡片式广告',
       // quickFind: true, 实机测试使用无法跳过
       activityIds: [
         'com.ct.client.common.webview.OnlineBusinessWebkitActivity',
@@ -62,7 +62,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '消息-开启消息通知',
+      name: '功能类-消息通知',
       desc: '自动点击关闭',
       // quickFind: true, 实机测试使用无法跳过
       activityIds: ['com.ct.client.activity.MainActivity'],

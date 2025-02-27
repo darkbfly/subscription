@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 8,
-      name: '酒店-弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.ume.lib_weex.view.WeexActivity',
       rules:
@@ -33,7 +33,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '进入飞行模式-提示弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.umetrip.android.msky.homepage.activity.UmeHomeActivity',
       rules:

@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 6,
-      name: '广告弹窗',
+      name: '卡片式广告',
       rules: [
         {
           name: '字节穿山甲SDK',

@@ -13,7 +13,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页广告弹窗',
+      name: '卡片式广告',
       activityIds: ['com.csg.palmhall.MainActivity'],
       rules: 'View > Image +(3) [text="不再显示"][clickable=true]',
       snapshotUrls: ['https://i.gkd.li/import/12700075'],

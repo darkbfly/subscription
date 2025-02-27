@@ -24,7 +24,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '广告弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.dubox.drive.ui.MainActivity',
       rules: 'ImageView[id="com.dubox.drive:id/ivClose"]',

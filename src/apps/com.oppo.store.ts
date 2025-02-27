@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.oppo.store.MainActivity',
       rules: 'ImageView[id="com.oppo.store:id/dialog_delete"][desc="关闭"]',

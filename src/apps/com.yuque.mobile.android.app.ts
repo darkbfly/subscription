@@ -20,7 +20,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '自动原图',
+      name: '功能类',
       desc: '如果没有勾选原图, 则勾选',
       activityIds:
         'com.yuque.mobile.android.app.rn.activity.ReactNativeMainActivity',

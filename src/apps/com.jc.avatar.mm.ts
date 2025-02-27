@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.jc.avatar.mm.MainActivity',
       rules:
         'ImageView -2 FrameLayout > FrameLayout > FrameLayout > FrameLayout > ImageView',

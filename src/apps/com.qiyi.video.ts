@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '青少年弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'org.qiyi.android.video.MainActivity',
       rules: [
@@ -43,7 +43,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '开启推送通知弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'org.qiyi.android.video.MainActivity',
       snapshotUrls: 'https://i.gkd.li/import/12838152',

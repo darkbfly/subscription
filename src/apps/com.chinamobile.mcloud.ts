@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -50,7 +50,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '请求开启自动备份弹窗',
+      name: '卡片式广告',
       activityIds: 'com.chinamobile.mcloud.client.ui.MenuActivity',
       quickFind: true,
       rules:

@@ -25,11 +25,11 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页优惠弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '首页优惠弹窗1',
+          name: '卡片式广告',
           activityIds: 'com.xunmeng.pinduoduo.ui.activity.HomeActivity',
           matches:
             'FrameLayout > FrameLayout > RelativeLayout[childCount=2] > @ImageView[id!=null][clickable=true][visibleToUser=true] + ImageView',
@@ -37,7 +37,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '首页优惠弹窗2',
+          name: '卡片式广告',
           activityIds: [], // 暂时用[]，后续补充activityIds
           matches:
             'View[id=null] > TextView + View > View +(4) View[clickable=true] > Image[id=null]',
@@ -45,7 +45,7 @@ export default defineAppConfig({
         },
         {
           key: 2,
-          name: '首页优惠弹窗3',
+          name: '卡片式广告',
           activityIds: 'com.xunmeng.pinduoduo.ui.activity.HomeActivity',
           matches:
             '@ImageView < ViewGroup[clickable=true][visibleToUser=true] < ViewGroup + ViewGroup >n [text="开心收下"]',
@@ -55,7 +55,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '活动弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -84,7 +84,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '红包弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -113,7 +113,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 5,
-      name: '全屏广告-多多买菜抽奖弹窗',
+      name: '卡片式广告',
       activityIds: ['com.xunmeng.pinduoduo.activity.NewPageActivity'],
       rules: [
         'View[childCount=1] > Button[id=null][text="关闭弹窗"][clickable=true]',
@@ -122,7 +122,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '多多视频悬局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       activityIds: ['com.xunmeng.pinduoduo.ui.activity.HomeActivity'],
       rules: [
         '@TextView[id=null][clickable=true] + Image[id=null][text="webp"]',
@@ -133,7 +133,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 7,
-      name: '多多视频每日签到弹窗',
+      name: '卡片式广告',
       activityIds: ['com.xunmeng.pinduoduo.ui.activity.HomeActivity'],
       rules: [
         '@ImageView[id=null] < ViewGroup < ViewGroup +(2) ViewGroup >(n) [text^="每日签到"]',
@@ -155,7 +155,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 9,
-      name: '多多视频每日自动签到',
+      name: '功能类-签到',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,
@@ -164,7 +164,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '自动签到',
+          name: '功能类-签到',
           action: 'clickCenter',
           matches: ['FrameLayout > TextView[text="领取今日现金"]'],
           snapshotUrls: [
@@ -175,7 +175,7 @@ export default defineAppConfig({
         {
           key: 1,
           preKeys: [0],
-          name: '在签到后关闭弹窗',
+          name: '卡片式广告',
           action: 'clickCenter',
           matches: ['FrameLayout > TextView[text="明日继续来领"]'],
           snapshotUrls: 'https://i.gkd.li/import/13205634',
@@ -208,7 +208,7 @@ export default defineAppConfig({
     },
     {
       key: 11,
-      name: '功能类-自动点击原图',
+      name: '功能类',
       activityIds:
         'com.xunmeng.pinduoduo.app_album.album.MultiImageSelectorActivity',
       quickFind: true,
@@ -221,7 +221,7 @@ export default defineAppConfig({
     {
       key: 12,
       quickFind: true,
-      name: '全屏广告-下单成功邀请好友弹窗',
+      name: '卡片式广告',
       desc: '点击X',
       rules: [
         {

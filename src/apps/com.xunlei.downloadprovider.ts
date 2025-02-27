@@ -83,7 +83,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '应用内广告弹窗',
+      name: '卡片式广告',
       desc: '⚠ 此规则容易误触，因此默认关闭。',
       rules: [
         {

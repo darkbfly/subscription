@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '评分弹窗',
+      name: '卡片式广告',
       quickFind: true,
       actionMaximum: 1,
       activityIds:

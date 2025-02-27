@@ -15,7 +15,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '新人专享优惠弹窗',
+      name: '卡片式广告',
       activityIds: 'cn.speedtest.lite.main.MainActivity',
       rules:
         '@[id="cn.speedtest.lite:id/iv_close"] - RelativeLayout >n [id="cn.speedtest.lite:id/ad_banner"]',

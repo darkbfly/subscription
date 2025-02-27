@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: '弹窗提醒',
+      name: '卡片式广告',
       desc: '已知包括APP升级提醒与开启通知提醒，自动点击关闭。',
       enable: false,
       quickFind: true,

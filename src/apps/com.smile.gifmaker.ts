@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       activityIds: 'com.yxcorp.gifshow.HomeActivity',
       rules: [
         {
@@ -23,12 +23,12 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '首页-红包弹窗',
+      name: '卡片式广告',
       desc: '自动点击x按钮',
       activityIds: 'com.yxcorp.gifshow.HomeActivity',
       rules: [
         {
-          name: '老友回归红包弹窗',
+          name: '卡片式广告',
           matches:
             '@ImageView[id=null][clickable=true] + ViewGroup > [text!=null] + [text!=null]',
           snapshotUrls: [
@@ -37,7 +37,7 @@ export default defineAppConfig({
           ],
         },
         {
-          name: '限时高额奖励弹窗',
+          name: '卡片式广告',
           matches:
             '@ImageView[id=null][clickable=true] < ViewGroup + ViewGroup >2 [text="立即领取"]',
           snapshotUrls: ['https://i.gkd.li/import/12708681'],

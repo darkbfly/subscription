@@ -29,7 +29,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '开启通知弹窗',
+      name: '卡片式广告',
       desc: '自动点击“以后再说”',
       quickFind: true,
       matchTime: 10000,

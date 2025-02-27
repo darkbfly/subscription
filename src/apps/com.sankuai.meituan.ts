@@ -27,11 +27,11 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '广告弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '美团买菜-折扣弹窗',
+          name: '卡片式广告',
           activityIds: 'com.meituan.retail.c.android.mrn.mrn.MallMrnModal',
           matches:
             'ViewGroup > ViewGroup[childCount=6] > ViewGroup[childCount=1] > ImageView[childCount=0][visibleToUser=true]',
@@ -39,7 +39,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '美团买菜-红包弹窗',
+          name: '卡片式广告',
           activityIds: 'com.meituan.retail.c.android.mrn.mrn.MallMrnModal',
           matches:
             '@ImageView < ViewGroup +3 ViewGroup > ViewGroup > TextView[text^="红包已到账"]',
@@ -47,7 +47,7 @@ export default defineAppConfig({
         },
         {
           key: 2,
-          name: '美团买菜-支付成功后-红包弹窗',
+          name: '卡片式广告',
           activityIds: 'com.meituan.retail.c.android.mrn.mrn.MallMrnModal',
           matches:
             'TextView[text="恭喜你获得以下权益"] + ViewGroup > ImageView',
@@ -55,7 +55,7 @@ export default defineAppConfig({
         },
         {
           key: 3,
-          name: '超市便利-广告弹窗',
+          name: '卡片式广告',
           activityIds:
             'com.sankuai.waimai.store.poi.list.newp.PoiVerticalityHomeActivity',
           matches:
@@ -64,7 +64,7 @@ export default defineAppConfig({
         },
         {
           key: 4,
-          name: '骑行卡-红包弹窗',
+          name: '卡片式广告',
           activityIds: 'com.meituan.mmp.lib.HeraActivity',
           matches:
             'View[childCount=3] > View + TextView + TextView[text=""][visibleToUser=true]',
@@ -74,7 +74,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '订单调查弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       quickFind: true,
@@ -112,7 +112,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 7,
-      name: '请求定位弹窗',
+      name: '卡片式广告',
       desc: '首页/外卖界面-【打开位置开关弹窗】-点击右侧x关闭',
       activityIds: [
         'com.meituan.android.pt.homepage.activity.MainActivity',
@@ -131,7 +131,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 8,
-      name: '请求开启通知权限弹窗',
+      name: '卡片式广告',
       desc: '点击跳过',
       quickFind: true,
       actionMaximum: 1,
@@ -146,7 +146,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '订单完成后的红包弹窗',
+      name: '卡片式广告',
       desc: '直接关闭整个模块',
       quickFind: true,
       matchTime: 10000,

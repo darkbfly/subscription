@@ -64,7 +64,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '主题详情页广告关闭弹窗',
+      name: '卡片式广告',
       activityIds: ['com.huawei.openalliance.ad.activity.FeedbackActivity'],
       rules: [
         {
@@ -134,7 +134,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '首页活动弹窗-默认禁用',
+      name: '卡片式广告',
       enable: false,
       activityIds: [
         'com.huawei.android.thememanager.HwThemeManagerActivity',
@@ -160,7 +160,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       activityIds:
         'com.huawei.android.thememanager.base.widget.ActivatePushDialog',
       rules: '@[text="取消"] < * - * >n [text="开启消息通知"]',

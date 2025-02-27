@@ -15,7 +15,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '优惠券弹窗',
+      name: '卡片式广告',
       desc: '自动关闭',
       rules: [
         {

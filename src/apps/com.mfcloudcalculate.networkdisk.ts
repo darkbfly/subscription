@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '全屏广告-应用内广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.mfcloudcalculate.networkdisk.activity.AdFreeActivity',
       matchTime: 10000,
       actionMaximum: 1,

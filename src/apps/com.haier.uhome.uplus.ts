@@ -20,7 +20,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       activityIds: 'com.haier.uhome.uplus.ui.widget.MPermissionCheckDialog',
       rules: '[text*="通知栏权限"] +n LinearLayout > [text="取消"]',
       snapshotUrls: 'https://i.gkd.li/import/12726829',

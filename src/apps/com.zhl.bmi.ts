@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: '广告弹窗',
+      name: '卡片式广告',
       desc: '点击右上角x',
       activityIds: 'com.zhl.bmi.MainActivity',
       quickFind: true,

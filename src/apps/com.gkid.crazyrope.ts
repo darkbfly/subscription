@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       desc: '二步确认',
       quickFind: true,
       activityIds: 'com.gkid.crazyrope.ui.drillcommon.DrillActivity',

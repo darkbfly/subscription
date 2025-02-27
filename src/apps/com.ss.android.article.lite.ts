@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '首页-红包弹窗',
+      name: '卡片式广告',
       activityIds: 'com.ss.android.article.lite.activity.SplashActivity',
       rules: '@[desc="关闭"] + [text$="现金红包"]',
       snapshotUrls: 'https://i.gkd.li/import/12705414',
@@ -31,7 +31,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 20,
-      name: '任务页面-签到弹窗',
+      name: '卡片式广告',
       activityIds: 'com.ss.android.article.lite.activity.SplashActivity',
       rules: [
         {
@@ -53,7 +53,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 22,
-      name: '任务页面-答题弹窗',
+      name: '卡片式广告',
       activityIds: 'com.ss.android.article.lite.activity.SplashActivity',
       rules: [
         {
@@ -67,7 +67,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 30,
-      name: '搜索页面-搜索得金币弹窗',
+      name: '卡片式广告',
       activityIds: 'com.android.bytedance.search.SearchActivity',
       rules: [
         {

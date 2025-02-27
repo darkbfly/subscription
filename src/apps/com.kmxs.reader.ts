@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       activityIds: 'com.kmxs.reader.home.ui.HomeActivity',
       rules: '[id="com.kmxs.reader:id/young_dialog_close"]',
     },
@@ -47,7 +47,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '签到弹窗',
+      name: '卡片式广告',
       activityIds: 'org.geometerplus.android.fbreader.FBReader',
       rules:
         '@TextView[id=null] < View +(2) TextView[text^="已连签"&&text*="天"]',

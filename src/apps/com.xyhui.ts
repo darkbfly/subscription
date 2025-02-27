@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
 
       rules: [
         {
@@ -99,7 +99,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页-右侧局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: [
         'com.xyhui.start.PUMainActivity',

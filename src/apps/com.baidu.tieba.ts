@@ -42,7 +42,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '申请消息提醒弹窗',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'app',
       rules: [
@@ -129,7 +129,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '升级弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',
@@ -161,7 +161,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '广告弹窗',
+      name: '卡片式广告',
 
       matchTime: 10000,
       actionMaximum: 1,
@@ -254,12 +254,12 @@ export default defineAppConfig({
     {
       enable: false,
       key: 12,
-      name: '功能类-贴吧内签到并关闭弹窗',
+      name: '卡片式广告',
       resetMatch: 'activity',
       rules: [
         {
           key: 0,
-          name: '贴吧页签到',
+          name: '功能类-签到',
           activityIds: ['com.baidu.tieba.forum.ForumActivity'],
           matches:
             'WebView[text="frs"] > View > View > View > View > TextView[text="签到"][clickable=true]',
@@ -267,7 +267,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '签到成功-弹窗',
+          name: '卡片式广告',
           activityIds: ['com.baidu.tbadk.browser.TBWebContainerActivity'],
           matches:
             'WebView[text="签到弹窗"] > View > View > TextView[text=""][clickable=true]',

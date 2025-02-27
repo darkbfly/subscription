@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -30,7 +30,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '全屏广告-公告弹窗', //分类存疑
+      name: '卡片式广告', //分类存疑
       resetMatch: 'app',
       actionMaximum: 1,
       matchTime: 10000,

@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.hunantv.imgo.activity.MainActivity',
         'miuix.appcompat.app.m',
@@ -36,7 +36,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,

@@ -110,7 +110,7 @@ export default defineAppConfig({
     {
       key: 1,
       quickFind: true,
-      name: '关闭升级弹窗',
+      name: '卡片式广告',
       activityIds: 'com.coolapk.market.view.main.MainActivity',
       snapshotUrls: 'https://i.gkd.li/import/12503762',
       rules: '[text=`立即更新`] - [text=`取消`]',

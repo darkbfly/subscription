@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '购买会员-弹窗广告',
+      name: '卡片式广告',
       enable: false,
       quickFind: true,
       activityIds: 'com.youloft.icloser.view.dialog.VipRetainPacketDialog',

@@ -34,7 +34,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       activityIds: 'com.dongqiudi.news.MainActivity',
       quickFind: true,
       matchTime: 10000,
@@ -85,7 +85,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '首页-广告弹窗',
+      name: '卡片式广告',
       desc: '点击底部【x】关闭',
       activityIds: 'com.dongqiudi.news.MainActivity',
       quickFind: true,
@@ -94,7 +94,7 @@ export default defineAppConfig({
     },
     {
       key: 8,
-      name: '数据页弹窗广告',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'app',
       activityIds: 'com.dongqiudi.news.MainActivity',

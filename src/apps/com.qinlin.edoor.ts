@@ -20,7 +20,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '全屏广告-弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -35,7 +35,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '全屏广告-开门有奖弹窗',
+      name: '卡片式广告',
       activityIds: 'com.qinlin.edoor.MainActivity',
       rules: '[desc="开门有奖"] +2 [desc="立即领取"] + ImageView',
       snapshotUrls: 'https://i.gkd.li/import/12707736',
@@ -43,14 +43,14 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '全屏广告-获得金币弹窗',
+      name: '卡片式广告',
       activityIds: 'com.qinlin.edoor.MainActivity',
       rules: ['[desc="获得金币"] +3 [desc="开心收下"] + ImageView'],
       snapshotUrls: ['https://i.gkd.li/import/12707738'],
     },
     {
       key: 12,
-      name: '全屏广告-开门成功后广告弹窗',
+      name: '卡片式广告',
       desc: '来自【腾讯广告sdk】',
       rules: '[vid="interact_ad_root"] >2 [vid="iv_close"]',
       snapshotUrls: 'https://i.gkd.li/import/13932707',

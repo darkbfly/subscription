@@ -14,7 +14,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '版本升级弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.taobao.ltao.maintab.MainFrameActivity',
         'com.taobao.litetao.launcher.ALiFlutterActivityCompat',

@@ -60,7 +60,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '弹窗广告',
+      name: '卡片式广告',
       desc: '点击x关闭广告提示',
       activityIds: ['com.baidu.youavideo.home.view.HomeActivity'],
       quickFind: true,
@@ -74,7 +74,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '请求开启通知权限弹窗',
+      name: '卡片式广告',
       activityIds: 'com.baidu.youavideo.app.ui.HomeActivity',
       quickFind: true,
       rules:
@@ -83,7 +83,7 @@ export default defineAppConfig({
     },
     {
       key: 8,
-      name: '照片-底部局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       activityIds: 'com.baidu.youavideo.home.view.HomeActivity',
       quickFind: true,
       rules:

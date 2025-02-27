@@ -37,7 +37,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '升级弹窗',
+      name: '卡片式广告',
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',
@@ -99,7 +99,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '全屏广告-请求推送通知弹窗',
+      name: '卡片式广告',
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',

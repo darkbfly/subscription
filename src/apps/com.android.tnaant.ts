@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 5,
-      name: '公告弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',

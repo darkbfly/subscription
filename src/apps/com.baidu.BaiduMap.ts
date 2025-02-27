@@ -32,7 +32,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '美食大礼包弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.baidu.baidumaps.MapsActivity',
       rules: '[text="美食大礼包"] +(6) TextView[id=null][clickable=true]',
@@ -41,7 +41,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '酒店提前订弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.baidu.baidumaps.MapsActivity',
       rules: '[id="lottie_box"] + TextView[id=null][clickable=true]',
@@ -50,7 +50,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 5,
-      name: '请求定位弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: [
         'com.baidu.mapframework.widget.BMBaseDialog',
@@ -77,7 +77,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 6,
-      name: '打车界面-弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: [
         'com.baidu.baidumaps.MapsActivity',

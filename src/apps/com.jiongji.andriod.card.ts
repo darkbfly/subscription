@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '活动弹窗',
+      name: '卡片式广告',
       activityIds: 'com.baicizhan.main.activity.MainTabActivity',
       rules:
         '[text="反馈"] + ImageView + ImageView[childCount=0][clickable=true]',

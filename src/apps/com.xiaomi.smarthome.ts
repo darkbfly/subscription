@@ -19,7 +19,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '设备固件升级提示弹窗',
+      name: '卡片式广告',
       activityIds: 'com.xiaomi.smarthome.framework.plugin.rn.PluginRNActivity',
       snapshotUrls: 'https://i.gkd.li/import/12639671',
       rules:

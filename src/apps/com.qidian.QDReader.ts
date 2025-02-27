@@ -24,7 +24,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',
@@ -38,7 +38,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '活动弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.qidian.QDReader.ui.activity.MainGroupActivity',
         'com.tencent.mm.plugin.webview.ui.tools.SDKOAuthUI',
@@ -118,7 +118,7 @@ export default defineAppConfig({
     {
       key: 13,
       quickFind: true,
-      name: '全屏广告-红包弹窗',
+      name: '卡片式广告',
       desc: '点击X',
       rules: [
         {

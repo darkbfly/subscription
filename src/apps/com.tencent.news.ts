@@ -36,7 +36,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '广告、活动弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -50,7 +50,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       activityIds: 'com.tencent.news.activity.SplashActivity',
       rules: '[text="开启通知"] + [text="先不了"]',
       snapshotUrls: 'https://i.gkd.li/import/12755824',

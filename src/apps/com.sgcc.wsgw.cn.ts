@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '首页弹窗广告',
+      name: '卡片式广告',
 
       activityIds: [
         'com.sgcc.wsgw.mainbundle.NewsSyRemind2Activity',

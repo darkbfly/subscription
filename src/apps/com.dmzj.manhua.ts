@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
       activityIds: 'com.dmzj.manhua.ui.LaunchInterceptorActivity',
       quickFind: true,
       actionMaximum: 1,

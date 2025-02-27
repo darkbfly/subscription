@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '广告弹窗',
+      name: '卡片式广告',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,
@@ -20,7 +20,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '全屏广告-请求推送通知弹窗',
+      name: '卡片式广告',
 
       matchTime: 10000,
       actionMaximum: 1,

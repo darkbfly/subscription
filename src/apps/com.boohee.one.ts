@@ -15,7 +15,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '发现页广告弹窗',
+      name: '卡片式广告',
       activityIds: 'com.sensorsdata.sf.ui.view.DialogActivity',
       rules:
         'LinearLayout[childCount=2] > @ImageView[id=null][clickable=true] + ImageView',
@@ -24,7 +24,7 @@ export default defineAppConfig({
     {
       enable: true,
       key: 10,
-      name: '请求开启通知权限弹窗',
+      name: '卡片式广告',
       desc: '自动点击x按钮',
       activityIds:
         'com.boohee.one.app.account.ui.activity.MsgCategoryActivityV2',

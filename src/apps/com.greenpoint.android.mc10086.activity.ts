@@ -14,7 +14,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页广告弹窗',
+      name: '卡片式广告',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
         {
@@ -26,7 +26,7 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '全屏广告-请求推送通知弹窗',
+      name: '卡片式广告',
       desc: '全屏广告-请求推送通知弹窗，点击取消',
       activityIds: 'com.mc10086.cmcc.base.StartPageActivity',
       rules: [
@@ -46,7 +46,7 @@ export default defineAppConfig({
     },
     {
       key: 11,
-      name: '请求获取剪贴板权限弹窗',
+      name: '卡片式广告',
       desc: '请求获取剪贴板权限弹窗，点击不允许',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
@@ -74,7 +74,7 @@ export default defineAppConfig({
     },
     {
       key: 13,
-      name: '请求好评弹窗',
+      name: '卡片式广告',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
         {

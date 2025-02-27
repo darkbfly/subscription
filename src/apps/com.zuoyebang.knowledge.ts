@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '赏好评弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.baidu.homework.activity.init.InitActivity',
       rules: 'TextView[id="com.zuoyebang.knowledge:id/btn_cancle"]',

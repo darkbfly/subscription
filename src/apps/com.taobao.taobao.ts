@@ -16,7 +16,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '限时福利弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -38,7 +38,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '88VIP开通优惠弹窗',
+          name: '卡片式广告',
           activityIds: [
             'com.taobao.tao.welcome.Welcome',
             'com.taobao.tao.TBMainActivity',
@@ -99,7 +99,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 9,
-      name: '各级页面-添加到首页弹窗',
+      name: '卡片式广告',
       desc: '自动点击退出',
       quickFind: true,
       activityIds: [
@@ -114,7 +114,7 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '视频页面-活动弹窗',
+      name: '卡片式广告',
       activityIds: 'com.taobao.tao.welcome.Welcome',
       rules:
         'View[id=null] > [text="立即参加"] + TextView[id=null][clickable=true]',
@@ -123,7 +123,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '视频页面-签到弹窗',
+      name: '卡片式广告',
       activityIds: 'com.taobao.tao.welcome.Welcome',
       rules: '@View[clickable=true] - View > View > TextView[text="立即签到"]',
       snapshotUrls: 'https://i.gkd.li/import/12642798',
@@ -148,7 +148,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 13,
-      name: '小额免密支付弹窗',
+      name: '卡片式广告',
       desc: '点击关闭',
       quickFind: true,
       activityIds: 'com.alipay.android.msp.ui.views.MspContainerActivity',

@@ -6,11 +6,11 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '弹窗广告',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '首页弹窗广告',
+          name: '卡片式广告',
           activityIds: 'com.fcbox.hivebox.business.main.MainActivity',
           quickFind: true,
           matches:

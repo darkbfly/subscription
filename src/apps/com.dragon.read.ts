@@ -70,7 +70,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '优惠券弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -112,7 +112,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '阅读页面广告弹窗-点击反馈按钮',
+          name: '卡片式广告',
           activityIds: 'com.dragon.read.reader.ui.ReaderActivity',
           // 有反馈原规则'[text="反馈"][clickable=true]'不触发删除[clickable=true]才能点击；有反馈原规则点击屏外节点，导致无法执行下一步，遂添加[visibleToUser=true]
           matches: '[text="反馈"][visibleToUser=true]',
@@ -124,7 +124,7 @@ export default defineAppConfig({
         {
           preKeys: 0,
           key: 1,
-          name: '阅读页面广告弹窗-点击不感兴趣',
+          name: '卡片式广告',
           activityIds: 'com.dragon.read.reader.ui.ReaderActivity',
           matches: '@ViewGroup[clickable=true] > [text="不感兴趣"]',
           snapshotUrls: [
@@ -134,7 +134,7 @@ export default defineAppConfig({
         },
         {
           key: 2,
-          name: '阅读页面广告弹窗-点击下一页',
+          name: '卡片式广告',
           activityIds: 'com.dragon.read.reader.ui.ReaderActivity',
           matches:
             '[id="com.dragon.read:id/readFlowNonRoundEntranceLayout"] [id="com.dragon.read:id/relativeRight"]',
@@ -142,7 +142,7 @@ export default defineAppConfig({
         },
         {
           key: 3,
-          name: '阅读页面广告弹窗-点击反馈',
+          name: '卡片式广告',
           activityIds: 'com.dragon.read.reader.ui.ReaderActivity',
           matches: '[text="看视频免广告"] - [text="反馈"]',
           snapshotUrls: 'https://i.gkd.li/import/13816453',
@@ -150,7 +150,7 @@ export default defineAppConfig({
         {
           preKeys: 3,
           key: 4,
-          name: '阅读页面广告弹窗-点击不感兴趣',
+          name: '卡片式广告',
           activityIds: 'com.dragon.read.reader.ui.ReaderActivity',
           matches: '[text="举报"] <2 ViewGroup - ViewGroup[clickable=true]',
           snapshotUrls: 'https://i.gkd.li/import/13816454',
@@ -160,7 +160,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       desc: '自动点击【取消】',
       activityIds: 'com.dragon.read.widget.ConfirmDialogBuilder',
       rules: '@[text="取消"] < * -2 * > [text="开启推送提醒"]',

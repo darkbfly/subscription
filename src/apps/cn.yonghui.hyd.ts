@@ -7,11 +7,11 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '红包弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
-          name: '领券中心-红包弹窗',
+          name: '卡片式广告',
           activityIds:
             'cn.yonghui.hyd.coupon.couponfactory.CouponFactoryActivity',
           matches:
@@ -20,7 +20,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '好券即将过期弹窗',
+          name: '卡片式广告',
           activityIds:
             'cn.yonghui.hyd.coupon.couponfactory.CouponFactoryActivity',
           matches:

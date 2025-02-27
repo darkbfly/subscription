@@ -15,7 +15,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '青少年模式弹窗',
+      name: '卡片式广告',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,
@@ -32,7 +32,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '视频推荐弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.youku.vip.wrapper.VipHomeActivity',
       rules: '[id="com.youku.phone:id/closeView"][desc="关闭弹层"]',

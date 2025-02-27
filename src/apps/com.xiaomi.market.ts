@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '首页悬局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       activityIds: 'com.xiaomi.market.ui.FloatWebActivity',
       quickFind: true,
       rules: {
@@ -58,7 +58,7 @@ export default defineAppConfig({
     },
     {
       key: 11,
-      name: '请求通知权限提示弹窗',
+      name: '卡片式广告',
       desc: '自动点击关闭按钮',
       quickFind: true,
 
@@ -87,7 +87,7 @@ export default defineAppConfig({
     },
     {
       key: 12,
-      name: '个性化推荐弹窗',
+      name: '卡片式广告',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,

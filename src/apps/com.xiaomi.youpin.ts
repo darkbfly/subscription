@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '广告弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.xiaomi.youpin.globalpopwindow.popwindow.PopWindowActivity',
       ],
@@ -20,7 +20,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '更新提示-版本升级弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.xiaomi.youpin.globalpopwindow.popwindow.PopWindowActivity',
       ],

@@ -13,7 +13,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '广告弹窗',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -27,7 +27,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '小说推荐弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.ximalaya.ting.android.host.activity.MainActivity',
       rules: '[id="com.ximalaya.ting.lite:id/main_iv_novel_back"]',
@@ -35,7 +35,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '支付宝提现广告弹窗',
+      name: '卡片式广告',
       desc: '点击右上角圆形x',
       quickFind: true,
       activityIds: 'com.ximalaya.ting.android.host.activity.MainActivity',
@@ -44,7 +44,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '关闭开启通知弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.ximalaya.ting.android.host.activity.WelComeActivity',
       rules:

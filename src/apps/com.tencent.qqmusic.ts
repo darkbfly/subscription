@@ -30,7 +30,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页-底部广告弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.tencent.qqmusic.activity.TranslucentWebViewActivity',
       rules: 'View[id="js_close_btn"][desc="关闭"]',
@@ -38,7 +38,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '内测体验弹窗',
+      name: '卡片式广告',
       desc: '点击[不再提醒]',
       activityIds: 'com.tencent.qqmusic.activity.AppStarterActivity',
       quickFind: true,
@@ -47,7 +47,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '免流弹窗',
+      name: '卡片式广告',
       desc: '点击[流量够用]',
       activityIds: 'com.tencent.qqmusic.activity.AppStarterActivity',
       quickFind: true,

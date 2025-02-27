@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '首页-弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.wm.dmall.MainActivity',
       rules: '[id="com.wm.dmall:id/advert_close"]',
@@ -14,7 +14,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页-局部广告-请求推送通知弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.wm.dmall.MainActivity',
       rules: [

@@ -18,7 +18,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '弹窗广告',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'activity',
       rules: [
@@ -84,7 +84,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '年底积分活动弹窗',
+      name: '卡片式广告',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'activity',

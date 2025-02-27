@@ -32,7 +32,7 @@ export default defineAppConfig({
     },
     {
       key: 8,
-      name: '打开推送通知弹窗',
+      name: '卡片式广告',
       desc: '自动点击“暂不”',
       quickFind: true,
       matchTime: 10000,

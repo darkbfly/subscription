@@ -13,14 +13,14 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页广告弹窗',
+      name: '卡片式广告',
       activityIds: ['com.jin10.lgd.biz.MainActivity'],
       rules: '[id="com.jin10:id/iv_body"] + [id="com.jin10:id/iv_close"]',
       snapshotUrls: ['https://i.gkd.li/import/12706045'],
     },
     {
       key: 3,
-      name: '快讯页面-广告弹窗',
+      name: '卡片式广告',
       activityIds: ['com.jin10.lgd.biz.MainActivity'],
       rules: '@[id="com.jin10:id/iv_close"] + [id="com.jin10:id/iv_pic"]',
       snapshotUrls: ['https://i.gkd.li/import/12706047'],

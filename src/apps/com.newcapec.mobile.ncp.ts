@@ -15,7 +15,7 @@ export default defineAppConfig({
     },
     {
       key: 11,
-      name: '密码过期提示弹窗',
+      name: '卡片式广告',
       desc: '密码过期提示弹窗，点击【取消】按钮。（需手动开启）',
       enable: false,
       activityIds: 'com.wanxiao.ui.activity.IndexActivity',

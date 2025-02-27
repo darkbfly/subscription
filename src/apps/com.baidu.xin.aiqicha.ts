@@ -20,7 +20,7 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       desc: '自动点击【不允许】',
       activityIds: 'com.baidu.newbridge.fast.MainFastActivity',
       rules: '[id="com.baidu.xin.aiqicha:id/notice_dialog_cancel_iv"]',

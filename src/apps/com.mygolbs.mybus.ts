@@ -74,7 +74,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '广告弹窗',
+      name: '卡片式广告',
       activityIds: ['com.mygolbs.mybus.mapsearch.poisearch.PoiSearchActivity'],
       rules: [
         {
@@ -100,7 +100,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '请求通知权限弹窗',
+      name: '卡片式广告',
       desc: '自动点击【取消】',
       activityIds: 'com.mygolbs.mybus.defines.CustomDialog',
       rules: [
@@ -116,7 +116,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '签到成功弹窗',
+      name: '卡片式广告',
       desc: '自动点击x按钮',
       activityIds: 'com.mygolbs.mybus.guligold.SignSuccessActivity',
       rules:

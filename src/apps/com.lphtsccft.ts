@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '首页广告弹窗',
+      name: '卡片式广告',
       activityIds: [
         'com.lphtsccft.zhangle.startup.SplashScreenActivity',
         'com.lphtsccft.zhangle.main.MainActivity',

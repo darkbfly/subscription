@@ -24,7 +24,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '全屏广告-弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       actionMaximum: 1,
       activityIds: 'com.wacai365.HomeActivity',

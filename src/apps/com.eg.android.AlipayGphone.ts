@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 0,
-      name: '更新提示-关闭花呗升级弹窗',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'app',
       activityIds: [
@@ -49,7 +49,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '定位提示-请求定位权限弹窗',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.eg.android.AlipayGphone.AlipayLogin',
       rules:
@@ -58,7 +58,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '通知提示-请求通知弹窗',
+      name: '卡片式广告',
       actionMaximum: 1,
       resetMatch: 'app',
       quickFind: true,
@@ -73,7 +73,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '消息页弹窗提示',
+          name: '卡片式广告',
           activityIds:
             'com.alipay.mobile.rome.pushservice.integration.PushOpenGuideActivity',
           matches:
@@ -96,13 +96,13 @@ export default defineAppConfig({
       ],
       rules: [
         {
-          name: '弹窗-【稍后再说】',
+          name: '卡片式广告',
           matches:
             'TextView[id="com.alipay.mobile.accountauthbiz:id/update_cancel_tv"]',
           snapshotUrls: 'https://i.gkd.li/import/13327095',
         },
         {
-          name: '弹窗-【x】',
+          name: '卡片式广告',
           matches:
             '[text="版本更新"||text^="Version"] - [id="com.alipay.mobile.antui:id/btn_close"]',
           snapshotUrls: [

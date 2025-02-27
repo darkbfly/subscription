@@ -21,7 +21,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页-弹窗广告',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.alibaba.wireless.launch.home.V5HomeActivity',
       rules: 'WebView >n View > Image[text*="FXa-124-124"]',
