@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '分段广告-1',
+      name: '局部广告-1',
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',
@@ -15,7 +15,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '分段广告-2',
+      name: '局部广告-2',
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',
