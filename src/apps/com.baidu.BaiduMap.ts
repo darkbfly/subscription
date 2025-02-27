@@ -93,7 +93,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 7,
-      name: '升级更新弹窗',
+      name: '升级更新提示',
       quickFind: true,
       activityIds: 'com.baidu.baidumaps.MapsActivity',
       rules: 'ImageView[id="com.baidu.BaiduMap:id/cancel_update"]',

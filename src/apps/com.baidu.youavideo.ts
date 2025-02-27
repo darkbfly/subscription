@@ -83,7 +83,7 @@ export default defineAppConfig({
     },
     {
       key: 8,
-      name: '照片-底部浮窗广告',
+      name: '照片-底部局部广告-请求推送通知弹窗',
       activityIds: 'com.baidu.youavideo.home.view.HomeActivity',
       quickFind: true,
       rules:

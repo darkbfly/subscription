@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 0,
-      name: 'MIUI更新弹窗',
+      name: 'MIUI更新提示',
       activityIds: [
         'com.android.updater.MainActivity',
         'com.android.settings.SubSettings',

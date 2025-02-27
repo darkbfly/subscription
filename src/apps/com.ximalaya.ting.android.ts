@@ -133,7 +133,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '关闭更新弹窗',
+      name: '关闭更新提示',
       quickFind: true,
       rules: '[id="com.ximalaya.ting.android:id/host_tv_update_later"]',
       snapshotUrls: 'https://i.gkd.li/import/12506287',

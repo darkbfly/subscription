@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '首页悬浮窗广告',
+      name: '首页悬局部广告-请求推送通知弹窗',
       activityIds: 'com.xiaomi.market.ui.FloatWebActivity',
       quickFind: true,
       rules: {

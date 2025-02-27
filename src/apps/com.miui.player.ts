@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '浮窗广告',
+      name: '局部广告-请求推送通知弹窗',
       desc: '关闭右侧飘窗广告',
       quickFind: true,
       activityIds:

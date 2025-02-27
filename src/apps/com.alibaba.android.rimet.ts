@@ -63,7 +63,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '版本更新弹窗',
+      name: '版本更新提示',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,

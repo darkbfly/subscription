@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '信息流广告',
+      name: '分段广告',
       desc: '信息流广告-点击x按钮-点击内容质量差',
       activityIds: ['com.hexin.plat.android.Hexin'],
       rules: [

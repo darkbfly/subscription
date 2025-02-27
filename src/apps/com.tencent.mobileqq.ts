@@ -238,7 +238,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '我的等级-浮窗广告',
+      name: '我的等级-局部广告-请求推送通知弹窗',
       activityIds: 'com.tencent.mobileqq.activity.QQBrowserActivity',
       rules:
         'TextView[text="QQ等级规则"] + View > TextView[id=null&&text.length=0]',
@@ -361,7 +361,7 @@ export default defineAppConfig({
     },
     {
       key: 17,
-      name: '更新弹窗',
+      name: '更新提示',
       actionMaximum: 1,
       resetMatch: 'app',
       rules: '@[desc="关闭"] - ViewGroup > [text="立即体验"||text="立即升级"]',

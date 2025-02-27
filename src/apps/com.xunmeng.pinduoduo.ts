@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新弹窗',
+      name: '更新提示',
       rules: [
         {
           key: 0,
@@ -122,7 +122,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '多多视频悬浮窗广告',
+      name: '多多视频悬局部广告-请求推送通知弹窗',
       activityIds: ['com.xunmeng.pinduoduo.ui.activity.HomeActivity'],
       rules: [
         '@TextView[id=null][clickable=true] + Image[id=null][text="webp"]',

@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新弹窗',
+      name: '更新提示',
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',
@@ -98,7 +98,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '信息流广告',
+      name: '分段广告',
       desc: '自动点击【x】',
       activityIds: 'com.qidian.QDReader.flutter.DailyReadingMainPageActivity',
       rules: 'View[desc="更多游戏"] - ImageView[clickable=true]',

@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '更新弹窗',
+      name: '更新提示',
       actionMaximum: 1,
       resetMatch: 'app',
       quickFind: true,
@@ -29,7 +29,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '浮窗广告',
+      name: '局部广告-请求推送通知弹窗',
       desc: '会出现在首页、查询办理页面',
       quickFind: true,
       activityIds: [

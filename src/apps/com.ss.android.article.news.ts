@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新弹窗',
+      name: '更新提示',
       actionMaximum: 1,
       resetMatch: 'app',
       rules: '[text="升级版本"] +n [desc="关闭"][clickable=true]',
@@ -18,11 +18,11 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '浮窗广告',
+      name: '局部广告-请求推送通知弹窗',
       rules: [
         {
           key: 0,
-          name: '首页-浮窗广告',
+          name: '首页-局部广告-请求推送通知弹窗',
           activityIds: 'com.ss.android.article.news.activity.MainActivity',
           matches:
             'FrameLayout > FrameLayout > FrameLayout[childCount=2] > @ImageView + ImageView[clickable=true][visibleToUser=true]',
@@ -30,7 +30,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '视频页-浮窗广告',
+          name: '视频页-局部广告-请求推送通知弹窗',
           activityIds: 'com.ss.android.ugc.detail.activity.TikTokActivity',
           matches:
             'FrameLayout > FrameLayout > FrameLayout[childCount=2] > ImageView + ImageView[clickable=true][visibleToUser=true]',
@@ -109,7 +109,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 12,
-      name: '信息流广告',
+      name: '分段广告',
       desc: '点击右上角x按钮,点击不感兴趣',
       rules: [
         {

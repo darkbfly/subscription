@@ -7,21 +7,21 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新弹窗',
+      name: '更新提示',
       actionMaximum: 1,
       resetMatch: 'app',
       quickFind: true,
       rules: [
         {
           key: 1,
-          name: '更新弹窗-1',
+          name: '更新提示-1',
           matches:
             '@[id="com.autonavi.minimap:id/iv_close"] + * > [text^="立即升级"]',
           snapshotUrls: 'https://i.gkd.li/import/13379094',
         },
         {
           key: 2,
-          name: '更新弹窗-2',
+          name: '更新提示-2',
           matches: '@[text="取消"] + * + [text="去下载"]',
           snapshotUrls: 'https://i.gkd.li/import/13379426',
         },

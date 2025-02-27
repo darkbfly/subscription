@@ -116,7 +116,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '首页-底部浮窗广告',
+      name: '首页-底部局部广告-请求推送通知弹窗',
       activityIds: 'me.ele.application.ui.Launcher.LauncherActivity',
       rules:
         'LinearLayout >n FrameLayout >n ViewGroup[childCount=3] + ViewGroup[clickable=true]',

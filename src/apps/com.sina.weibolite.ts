@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '信息流广告',
+      name: '分段广告',
       desc: '点击广告卡片右上角x图标,点击[不感兴趣]',
       activityIds: 'com.weico.international.activity.MainFragmentActivity',
       rules: [

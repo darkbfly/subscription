@@ -248,7 +248,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '更新弹窗',
+      name: '更新提示',
       quickFind: true,
       activityIds: 'com.xunlei.upgrade.XUpgradeActivity',
       rules: '[id="com.xunlei.downloadprovider:id/x_upgrade_cancel"]',

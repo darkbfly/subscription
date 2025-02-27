@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '更新弹窗',
+      name: '更新提示',
       desc: '占位，暂无作用',
       activityIds: 'com.youku.v2.HomePageEntry',
       rules: [],

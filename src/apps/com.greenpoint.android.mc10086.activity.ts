@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '关闭更新弹窗',
+      name: '关闭更新提示',
       activityIds: 'com.mc10086.cmcc.view.tabs.AppTabFragment',
       snapshotUrls: 'https://i.gkd.li/import/12534264',
       rules:
@@ -26,8 +26,8 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '请求推送通知弹窗',
-      desc: '请求推送通知弹窗，点击取消',
+      name: '全屏广告-请求推送通知弹窗',
+      desc: '全屏广告-请求推送通知弹窗，点击取消',
       activityIds: 'com.mc10086.cmcc.base.StartPageActivity',
       rules: [
         {

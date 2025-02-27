@@ -45,7 +45,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '更新弹窗',
+      name: '更新提示',
       activityIds: 'com.dongqiudi.news.DownloadActivity',
       quickFind: true,
       matchTime: 10000,
@@ -57,7 +57,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '首页信息流广告',
+      name: '分段广告',
       desc: '点击广告卡片x关闭按钮-关闭反馈理由弹窗',
       activityIds: 'com.dongqiudi.news.MainActivity',
       quickFind: true,

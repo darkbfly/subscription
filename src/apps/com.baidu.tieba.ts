@@ -71,7 +71,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '信息流广告',
+      name: '分段广告',
       desc: '推荐帖子列表,评论区列表:像正常内容的广告,关闭时弹窗选原因',
       activityIds: [
         'com.baidu.tieba.pb.pb.main.PbActivity',

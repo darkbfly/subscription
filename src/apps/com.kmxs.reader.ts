@@ -12,7 +12,7 @@ export default defineAppConfig({
     },
     {
       key: -2,
-      name: '更新弹窗',
+      name: '更新提示',
       activityIds: 'com.km.app.update.UpdateVersionV2Activity',
       rules: '[id="com.kmxs.reader:id/tv_update_cancel"]',
       snapshotUrls: 'https://i.gkd.li/import/12641338',

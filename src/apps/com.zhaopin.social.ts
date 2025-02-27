@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新弹窗',
+      name: '更新提示',
       activityIds: 'com.zhaopin.social.my.setting.AboutUsActivity',
       rules:
         '[id="com.zhaopin.social:id/update"] + [id="com.zhaopin.social:id/ignore"]',

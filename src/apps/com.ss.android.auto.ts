@@ -81,7 +81,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '评论区信息流广告',
+      name: '分段广告',
       desc: '像正常内容的广告',
       quickFind: true,
       activityIds: [
@@ -99,7 +99,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '请求推送通知弹窗',
+      name: '全屏广告-请求推送通知弹窗',
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',

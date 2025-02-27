@@ -20,7 +20,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '请求推送通知弹窗',
+      name: '全屏广告-请求推送通知弹窗',
 
       matchTime: 10000,
       actionMaximum: 1,

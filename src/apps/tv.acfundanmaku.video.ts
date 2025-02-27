@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: '青少年模式弹窗',
+      name: '开屏广告-青少年模式弹窗',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',

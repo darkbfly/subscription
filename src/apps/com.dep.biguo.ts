@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新弹窗',
+      name: '更新提示',
       activityIds: 'com.dep.biguo.dialog',
       rules: '@[text="取消"] +2 [text="立即更新"]',
       snapshotUrls: 'https://i.gkd.li/import/12708751',
