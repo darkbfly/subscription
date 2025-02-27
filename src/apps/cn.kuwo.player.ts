@@ -10,7 +10,8 @@ export default defineAppConfig({
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',
-      rules: '@TextView <3 View < View <4 View <3 View <3 WebView < WebView < [vid="pull_to_fresh"]',
+      rules:
+        '@TextView <3 View < View <4 View <3 View <3 WebView < WebView < [vid="pull_to_fresh"]',
       snapshotUrls: 'https://i.gkd.li/import/19000088',
     },
     {
@@ -19,7 +20,8 @@ export default defineAppConfig({
       quickFind: true,
       actionMaximum: 1,
       resetMatch: 'app',
-      rules: '@TextView <3 View <4 View <3 View <3 WebView < WebView < [vid="pull_to_fresh"]',
+      rules:
+        '@TextView <3 View <4 View <3 View <3 WebView < WebView < [vid="pull_to_fresh"]',
       snapshotUrls: 'https://i.gkd.li/import/19000104',
     },
   ],
