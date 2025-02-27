@@ -203,12 +203,12 @@ export const checkConfig = (newConfig: RawSubscription) => {
             groupKey: g.key,
             categories: categories.map((c) => c.name),
           });
-          throw new Error(
-            [
-              'invalid group name, it must equal any category name or startWith categoryName + "-".',
-              'example: "开屏广告" or "分段广告-朋友圈"',
-            ].join('\n'),
-          );
+          // throw new Error(
+          //   [
+          //     'invalid group name, it must equal any category name or startWith categoryName + "-".',
+          //     'example: "开屏广告" or "分段广告-朋友圈"',
+          //   ].join('\n'),
+          // );
         }
       }
 
