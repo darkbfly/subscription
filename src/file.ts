@@ -195,14 +195,14 @@ export const checkConfig = (newConfig: RawSubscription) => {
             (c) => g.name == c.name || g.name.startsWith(c.name + '-'),
           )
         ) {
-          console.error({
-            configName: newConfig.name,
-            appId: app.id,
-            appName: app.name,
-            groupName: g.name,
-            groupKey: g.key,
-            categories: categories.map((c) => c.name),
-          });
+          // console.error({
+          //   configName: newConfig.name,
+          //   appId: app.id,
+          //   appName: app.name,
+          //   groupName: g.name,
+          //   groupKey: g.key,
+          //   categories: categories.map((c) => c.name),
+          // });
           // throw new Error(
           //   [
           //     'invalid group name, it must equal any category name or startWith categoryName + "-".',
