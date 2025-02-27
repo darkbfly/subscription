@@ -283,9 +283,7 @@ export const checkConfig = (newConfig: RawSubscription) => {
             appId: app.id,
             groupKey: g.key,
           });
-          throw new Error(
-            `invalid snapshotUrls: ${u}`,
-          );
+          throw new Error(`invalid snapshotUrls: ${u}`);
         }
       });
       iArrayToArray(g.rules).forEach((r, ruleIndex) => {
@@ -298,9 +296,7 @@ export const checkConfig = (newConfig: RawSubscription) => {
               ruleIndex: ruleIndex,
               ruleKey: r.key,
             });
-            throw new Error(
-              `invalid snapshotUrls: ${u}`,
-            );
+            throw new Error(`invalid snapshotUrls: ${u}`);
           }
         });
       });
