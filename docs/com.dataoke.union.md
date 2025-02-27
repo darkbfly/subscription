@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.dataoke.union](/src/apps/com.dataoke.union.ts)
 
-## 开启消息通知
+## 功能类-消息通知
 
 默认禁用
 

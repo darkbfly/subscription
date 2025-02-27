@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.xinhang.mobileclient](/src/apps/com.xinhang.mobileclient.ts)
 
-## 应用内广告弹窗
+## 卡片式广告
 
 默认禁用
 

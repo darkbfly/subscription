@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.myapp.app.xaoorti](/src/apps/com.myapp.app.xaoorti.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

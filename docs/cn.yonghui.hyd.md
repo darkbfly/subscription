@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [cn.yonghui.hyd](/src/apps/cn.yonghui.hyd.ts)
 
-## 红包弹窗
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.schunshang.bij.niuniu](/src/apps/com.schunshang.bij.niuniu.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

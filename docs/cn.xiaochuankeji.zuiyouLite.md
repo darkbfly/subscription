@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [cn.xiaochuankeji.zuiyouLite](/src/apps/cn.xiaochuankeji.zuiyouLite.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 

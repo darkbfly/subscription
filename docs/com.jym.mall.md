@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.jym.mall](/src/apps/com.jym.mall.ts)
 
-## 升级弹窗
+## 卡片式广告
 
 默认禁用
 

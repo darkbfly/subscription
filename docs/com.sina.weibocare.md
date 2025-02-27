@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.sina.weibocare](/src/apps/com.sina.weibocare.ts)
 
-## 流量继续播放视频
+## 通知提示
 
 默认禁用 - 点击[播放]
 

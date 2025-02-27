@@ -2,7 +2,7 @@
 
 存在 5 规则组 - [com.dianping.v1](/src/apps/com.dianping.v1.ts)
 
-## 主页推荐关注弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -20,7 +20,7 @@
 
 - [快照-0](https://i.gkd.li/import/12727366)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

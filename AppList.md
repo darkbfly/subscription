@@ -202,6 +202,7 @@
 | 高德地图               | [com.autonavi.minimap](/docs/com.autonavi.minimap.md)                                                                                                             | 5      |
 | 稿定设计               | [com.hlg.daydaytobusiness](/docs/com.hlg.daydaytobusiness.md)                                                                                                     | 1      |
 | 高佣联盟               | [com.shangfang.gylm](/docs/com.shangfang.gylm.md)                                                                                                                 | 1      |
+| 更新提示               | [com.android.updater](/docs/com.android.updater.md)                                                                                                               | 1      |
 | 个人图书馆             | [com.doc360.client](/docs/com.doc360.client.md)                                                                                                                   | 1      |
 | 工程相机               | [com.xpx365.projphoto](/docs/com.xpx365.projphoto.md)                                                                                                             | 2      |
 | 公考雷达               | [com.maidu.gkld](/docs/com.maidu.gkld.md)                                                                                                                         | 3      |
@@ -283,6 +284,7 @@
 | 夸克浏览器             | [com.quark.browser](/docs/com.quark.browser.md)                                                                                                                   | 4      |
 | 酷安                   | [com.coolapk.market](/docs/com.coolapk.market.md)                                                                                                                 | 4      |
 | 酷狗音乐               | [com.kugou.android](/docs/com.kugou.android.md)                                                                                                                   | 3      |
+| 酷我音乐               | [cn.kuwo.player](/docs/cn.kuwo.player.md)                                                                                                                         | 2      |
 | 蓝岛                   | [com.loyea.adnmb](/docs/com.loyea.adnmb.md)                                                                                                                       | 1      |
 | 懒人听书               | [bubei.tingshu](/docs/bubei.tingshu.md)                                                                                                                           | 2      |
 | 乐橙含光               | [com.mm.android.lchg](/docs/com.mm.android.lchg.md)                                                                                                               | 1      |
@@ -366,7 +368,7 @@
 | 全球购骑士特权         | [com.black.unique](/docs/com.black.unique.md)                                                                                                                     | 1      |
 | 全球上网               | [com.miui.virtualsim](/docs/com.miui.virtualsim.md)                                                                                                               | 1      |
 | 全球网测               | [com.cnspeedtest.globalspeed](/docs/com.cnspeedtest.globalspeed.md)                                                                                               | 1      |
-| 权限管理服务           | [com.lbe.security.miui](/docs/com.lbe.security.miui.md)                                                                                                           | 1      |
+| 权限提示               | [com.lbe.security.miui](/docs/com.lbe.security.miui.md)                                                                                                           | 1      |
 | 曲奇云盘               | [com.quqi.quqioffice](/docs/com.quqi.quqioffice.md)                                                                                                               | 1      |
 | 趣智校园               | [com.klcxkj.zqxy](/docs/com.klcxkj.zqxy.md)                                                                                                                       | 2      |
 | 热剧猫                 | [com.tuying.kuimg.rjm](/docs/com.tuying.kuimg.rjm.md)                                                                                                             | 1      |
@@ -528,7 +530,6 @@
 | 星影视频               | [com.xsj.app](/docs/com.xsj.app.md)                                                                                                                               | 2      |
 | 新小财神影视           | [com.miaoying.appmy.cs](/docs/com.miaoying.appmy.cs.md)                                                                                                           | 3      |
 | 系统服务组件           | [com.miui.securityadd](/docs/com.miui.securityadd.md)                                                                                                             | 1      |
-| 系统更新               | [com.android.updater](/docs/com.android.updater.md)                                                                                                               | 1      |
 | 稀土掘金               | [com.daimajia.gold](/docs/com.daimajia.gold.md)                                                                                                                   | 1      |
 | 秀动                   | [com.showstartfans.activity](/docs/com.showstartfans.activity.md)                                                                                                 | 1      |
 | 雪球                   | [com.xueqiu.android](/docs/com.xueqiu.android.md)                                                                                                                 | 2      |

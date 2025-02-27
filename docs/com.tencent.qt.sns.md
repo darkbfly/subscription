@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.tencent.qt.sns](/src/apps/com.tencent.qt.sns.ts)
 
-## 首页活动弹窗
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.reddit.frontpage](/src/apps/com.reddit.frontpage.ts)
 
-## 社区消息-更新提示
+## 更新提示
 
 默认禁用
 

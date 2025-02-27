@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.qcymall.earphonesetup](/src/apps/com.qcymall.earphonesetup.ts)
 
-## 局部广告-我的-广告卡片
+## 卡片式广告
 
 默认禁用
 

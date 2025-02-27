@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.badmintoncn.bbs](/src/apps/com.badmintoncn.bbs.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

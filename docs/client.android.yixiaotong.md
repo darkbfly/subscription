@@ -2,7 +2,7 @@
 
 存在 3 规则组 - [client.android.yixiaotong](/src/apps/client.android.yixiaotong.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 
@@ -17,7 +17,7 @@
 - [快照-0](https://i.gkd.li/import/13451010)
 - [快照-1](https://i.gkd.li/import/13450887)
 
-## 底部卡片广告
+## 局部广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.m.mfood](/src/apps/com.m.mfood.ts)
 
-## 浮窗廣告
+## 卡片式广告
 
 默认禁用
 

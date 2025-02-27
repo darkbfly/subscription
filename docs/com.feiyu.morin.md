@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.feiyu.morin](/src/apps/com.feiyu.morin.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.juduoduo.app](/src/apps/com.juduoduo.app.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用 - 快手广告SDK
 

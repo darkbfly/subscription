@@ -2,7 +2,7 @@
 
 存在 8 规则组 - [com.ss.android.article.news](/src/apps/com.ss.android.article.news.ts)
 
-## 更新弹窗
+## 更新提示
 
 默认禁用
 
@@ -10,14 +10,14 @@
 - [快照-1](https://i.gkd.li/import/12840104)
 - [快照-2](https://i.gkd.li/import/13316081)
 
-## 浮窗广告
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13762123)
 - [快照-1](https://i.gkd.li/import/13761236)
 
-## 请求通知权限弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -37,7 +37,7 @@
 - [快照-6](https://i.gkd.li/import/13185633)
 - [快照-7](https://i.gkd.li/import/13186082)
 
-## 信息流广告
+## 分段广告
 
 默认禁用 - 点击右上角x按钮,点击不感兴趣
 
@@ -52,7 +52,7 @@
 - [快照-6](https://i.gkd.li/import/12733152)
 - [快照-7](https://i.gkd.li/import/12755265)
 
-## 底部话题推荐弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -65,7 +65,7 @@
 - [快照-0](https://i.gkd.li/import/13402468)
 - [快照-1](https://i.gkd.li/import/13402480)
 
-## 局部广告-底部热榜弹窗
+## 卡片式广告
 
 默认禁用 - 点击X
 

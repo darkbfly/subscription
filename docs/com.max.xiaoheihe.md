@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.max.xiaoheihe](/src/apps/com.max.xiaoheihe.ts)
 
-## 弹窗\_签到成功
+## 卡片式广告
 
 默认禁用
 

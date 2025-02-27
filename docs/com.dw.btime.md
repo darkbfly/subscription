@@ -2,7 +2,7 @@
 
 存在 3 规则组 - [com.dw.btime](/src/apps/com.dw.btime.ts)
 
-## 应用内弹窗
+## 卡片式广告
 
 默认禁用
 

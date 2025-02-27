@@ -2,7 +2,7 @@
 
 存在 15 规则组 - [com.ss.android.ugc.aweme](/src/apps/com.ss.android.ugc.aweme.ts)
 
-## 关闭青少年弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -16,14 +16,14 @@
 - [快照-3](https://i.gkd.li/import/12675129)
 - [快照-4](https://i.gkd.li/import/12675245)
 
-## 关闭朋友推荐弹窗
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/12525387)
 - [快照-1](https://i.gkd.li/import/12525389)
 
-## 关闭更新弹窗
+## 更新提示
 
 默认禁用
 
@@ -36,7 +36,7 @@
 
 - [快照-0](https://i.gkd.li/import/12749276)
 
-## 广告弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -63,7 +63,7 @@
 - [快照-0](https://i.gkd.li/import/12675129)
 - [快照-1](https://i.gkd.li/import/13669790)
 
-## 自动勾选原图
+## 功能类
 
 默认禁用 - 聊天发送图片时自动勾选原图
 

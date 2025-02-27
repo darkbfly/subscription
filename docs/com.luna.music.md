@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.luna.music](/src/apps/com.luna.music.ts)
 
-## VIP弹窗
+## 卡片式广告
 
 默认禁用 - 直接关闭所有底部半屏弹窗
 

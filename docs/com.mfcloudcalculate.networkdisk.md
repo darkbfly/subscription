@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.mfcloudcalculate.networkdisk](/src/apps/com.mfcloudcalculate.networkdisk.ts)
 
-## 全屏广告-应用内广告弹窗
+## 卡片式广告
 
 默认禁用
 

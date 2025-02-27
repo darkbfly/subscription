@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.alibaba.aliyun](/src/apps/com.alibaba.aliyun.ts)
 
-## 请求开启通知权限弹窗
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.youloft.icloser](/src/apps/com.youloft.icloser.ts)
 
-## 购买会员-弹窗广告
+## 卡片式广告
 
 默认禁用
 

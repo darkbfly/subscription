@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.facetech.konking](/src/apps/com.facetech.konking.ts)
 
-## 应用内广告弹窗
+## 卡片式广告
 
 默认禁用
 

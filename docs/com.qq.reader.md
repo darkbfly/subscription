@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.qq.reader](/src/apps/com.qq.reader.ts)
 
-## 青少年弹窗
+## 卡片式广告
 
 默认禁用
 

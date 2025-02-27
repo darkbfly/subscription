@@ -2,7 +2,7 @@
 
 存在 4 规则组 - [com.baidu.netdisk.samsung](/src/apps/com.baidu.netdisk.samsung.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用 - 点击右上角x图标按钮
 

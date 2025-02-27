@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.allinone.callerid](/src/apps/com.allinone.callerid.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

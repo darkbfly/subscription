@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.sjm.luobo](/src/apps/com.sjm.luobo.ts)
 
-## 广告弹窗
+## 卡片式广告
 
 默认禁用
 

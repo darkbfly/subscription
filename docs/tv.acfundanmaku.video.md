@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [tv.acfundanmaku.video](/src/apps/tv.acfundanmaku.video.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 

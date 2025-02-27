@@ -2,7 +2,7 @@
 
 存在 3 规则组 - [com.tmall.wireless](/src/apps/com.tmall.wireless.ts)
 
-## 版本更新
+## 更新提示
 
 默认禁用
 
@@ -10,7 +10,7 @@
 - [快照-1](https://i.gkd.li/import/13258201)
 - [快照-2](https://i.gkd.li/import/13399536)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

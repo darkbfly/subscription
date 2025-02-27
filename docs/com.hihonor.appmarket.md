@@ -2,7 +2,7 @@
 
 存在 3 规则组 - [com.hihonor.appmarket](/src/apps/com.hihonor.appmarket.ts)
 
-## 广告弹窗
+## 卡片式广告
 
 默认禁用
 

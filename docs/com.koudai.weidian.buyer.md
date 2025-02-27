@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.koudai.weidian.buyer](/src/apps/com.koudai.weidian.buyer.ts)
 
-## 首页红包弹窗
+## 卡片式广告
 
 默认禁用
 

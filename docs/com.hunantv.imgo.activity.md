@@ -2,7 +2,7 @@
 
 存在 4 规则组 - [com.hunantv.imgo.activity](/src/apps/com.hunantv.imgo.activity.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -15,7 +15,7 @@
 - [快照-0](https://i.gkd.li/import/12472616)
 - [快照-1](https://i.gkd.li/import/12472615)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

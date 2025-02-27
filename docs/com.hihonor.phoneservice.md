@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.hihonor.phoneservice](/src/apps/com.hihonor.phoneservice.ts)
 
-## 请求位置权限提示信息
+## 权限提示
 
 默认禁用
 

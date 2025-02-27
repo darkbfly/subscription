@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.hypergryph.skland](/src/apps/com.hypergryph.skland.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 

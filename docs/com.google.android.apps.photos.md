@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.google.android.apps.photos](/src/apps/com.google.android.apps.photos.ts)
 
-## 更新提示-取消更新
+## 更新提示
 
 默认禁用 - 点击[以后再说]
 

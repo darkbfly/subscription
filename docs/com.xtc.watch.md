@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.xtc.watch](/src/apps/com.xtc.watch.ts)
 
-## 弹窗提醒
+## 卡片式广告
 
 默认禁用 - 已知包括APP升级提醒与开启通知提醒，自动点击关闭。
 

@@ -2,7 +2,7 @@
 
 存在 4 规则组 - [com.oray.sunlogin](/src/apps/com.oray.sunlogin.ts)
 
-## 全屏广告-瓜子会员弹窗
+## 卡片式广告
 
 默认禁用 - 点击右上角[关闭]
 
@@ -12,7 +12,7 @@
 - [快照-1](https://i.gkd.li/import/12910411)
 - [快照-2](https://i.gkd.li/import/13197454)
 
-## 更新提示-版本更新
+## 更新提示
 
 默认禁用
 

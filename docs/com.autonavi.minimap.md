@@ -2,7 +2,7 @@
 
 存在 5 规则组 - [com.autonavi.minimap](/src/apps/com.autonavi.minimap.ts)
 
-## 更新弹窗
+## 更新提示
 
 默认禁用
 
@@ -30,7 +30,7 @@
 - [快照-2](https://i.gkd.li/import/12818770)
 - [快照-3](https://i.gkd.li/import/13764540)
 
-## 加油页面-优惠券弹窗
+## 卡片式广告
 
 默认禁用
 

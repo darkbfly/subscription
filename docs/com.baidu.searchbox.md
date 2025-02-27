@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.baidu.searchbox](/src/apps/com.baidu.searchbox.ts)
 
-## 红包弹窗
+## 卡片式广告
 
 默认禁用 - 点击关闭
 

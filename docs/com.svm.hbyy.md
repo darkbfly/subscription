@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.svm.hbyy](/src/apps/com.svm.hbyy.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

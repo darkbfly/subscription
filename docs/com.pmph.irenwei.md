@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.pmph.irenwei](/src/apps/com.pmph.irenwei.ts)
 
-## 全屏广告-抽奖弹窗
+## 卡片式广告
 
 默认禁用 - 点击X
 

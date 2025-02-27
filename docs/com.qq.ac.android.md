@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.qq.ac.android](/src/apps/com.qq.ac.android.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 

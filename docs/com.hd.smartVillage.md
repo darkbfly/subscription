@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.hd.smartVillage](/src/apps/com.hd.smartVillage.ts)
 
-## 关闭开启通知弹窗
+## 卡片式广告
 
 默认禁用
 

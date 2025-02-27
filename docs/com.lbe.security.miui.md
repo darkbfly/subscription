@@ -1,8 +1,8 @@
-# 权限管理服务
+# 权限提示
 
 存在 1 规则组 - [com.lbe.security.miui](/src/apps/com.lbe.security.miui.ts)
 
-## 权限授予弹窗
+## 卡片式广告
 
 默认禁用 - 自动点击【仅在使用中允许】
 

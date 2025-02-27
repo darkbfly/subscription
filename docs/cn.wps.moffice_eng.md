@@ -13,14 +13,14 @@
 - [快照-2](https://i.gkd.li/import/12505365)
 - [快照-3](https://i.gkd.li/import/13259090)
 
-## 首页-弹窗广告
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13259097)
 - [快照-1](https://i.gkd.li/import/12882712)
 
-## 升级提示
+## 更新提示
 
 默认禁用
 
@@ -42,7 +42,7 @@
 - [快照-0](https://i.gkd.li/import/13513911)
 - [快照-1](https://i.gkd.li/import/13513914)
 
-## 首页-底部广告
+## 局部广告
 
 默认禁用
 

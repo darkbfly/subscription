@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.zhouyu.music](/src/apps/com.zhouyu.music.ts)
 
-## 广告弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -12,7 +12,7 @@
 - [快照-1](https://i.gkd.li/import/13068583)
 - [快照-2](https://i.gkd.li/import/13231850)
 
-## 搜索底部广告
+## 局部广告
 
 默认禁用
 

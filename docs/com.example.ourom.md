@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.example.ourom](/src/apps/com.example.ourom.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

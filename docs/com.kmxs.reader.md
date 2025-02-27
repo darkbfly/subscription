@@ -2,7 +2,7 @@
 
 存在 10 规则组 - [com.kmxs.reader](/src/apps/com.kmxs.reader.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -12,7 +12,7 @@
 
 - [快照-0](https://i.gkd.li/import/12641338)
 
-## 阅读页面底部广告
+## 局部广告
 
 默认禁用
 
@@ -26,7 +26,7 @@
 - [快照-1](https://i.gkd.li/import/13362269)
 - [快照-2](https://i.gkd.li/import/13362272)
 
-## 签到弹窗
+## 卡片式广告
 
 默认禁用
 

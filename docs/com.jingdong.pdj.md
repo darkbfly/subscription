@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.jingdong.pdj](/src/apps/com.jingdong.pdj.ts)
 
-## 首页广告弹窗
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.cctv.cctv5ultimate](/src/apps/com.cctv.cctv5ultimate.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

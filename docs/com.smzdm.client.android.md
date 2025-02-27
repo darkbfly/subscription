@@ -2,7 +2,7 @@
 
 存在 4 规则组 - [com.smzdm.client.android](/src/apps/com.smzdm.client.android.ts)
 
-## APP内弹窗广告
+## 卡片式广告
 
 默认禁用
 
@@ -14,13 +14,13 @@
 
 - [快照-0](https://i.gkd.li/import/13198016)
 
-## 请求读取剪贴板权限弹窗
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13198020)
 
-## 通知弹窗
+## 卡片式广告
 
 默认禁用
 

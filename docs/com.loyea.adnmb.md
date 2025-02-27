@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.loyea.adnmb](/src/apps/com.loyea.adnmb.ts)
 
-## 通知弹窗
+## 卡片式广告
 
 默认禁用
 

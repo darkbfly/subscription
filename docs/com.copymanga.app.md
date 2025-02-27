@@ -2,7 +2,7 @@
 
 存在 5 规则组 - [com.copymanga.app](/src/apps/com.copymanga.app.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.jd.pingou](/src/apps/com.jd.pingou.ts)
 
-## 底部申请定位浮窗
+## 局部广告
 
 默认禁用
 

@@ -2,13 +2,13 @@
 
 存在 4 规则组 - [com.smile.gifmaker](/src/apps/com.smile.gifmaker.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/12708609)
 
-## 首页-红包弹窗
+## 卡片式广告
 
 默认禁用 - 自动点击x按钮
 

@@ -2,7 +2,7 @@
 
 存在 5 规则组 - [com.duowan.kiwi](/src/apps/com.duowan.kiwi.ts)
 
-## 青少年模式弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -25,7 +25,7 @@
 
 - [快照-0](https://i.gkd.li/import/13440833)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

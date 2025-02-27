@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.x.istar](/src/apps/com.x.istar.ts)
 
-## 全屏广告-开屏广告弹窗
+## 卡片式广告
 
 默认禁用
 

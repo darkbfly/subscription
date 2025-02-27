@@ -2,7 +2,7 @@
 
 存在 3 规则组 - [com.lucky.luckyclient](/src/apps/com.lucky.luckyclient.ts)
 
-## 软件更新
+## 更新提示
 
 默认禁用
 

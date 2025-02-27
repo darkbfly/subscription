@@ -2,7 +2,7 @@
 
 存在 2 规则组 - [com.tima.carnet.m.main](/src/apps/com.tima.carnet.m.main.ts)
 
-## 每日弹窗广告
+## 卡片式广告
 
 默认禁用
 

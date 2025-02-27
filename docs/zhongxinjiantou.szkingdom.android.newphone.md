@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [zhongxinjiantou.szkingdom.android.newphone](/src/apps/zhongxinjiantou.szkingdom.android.newphone.ts)
 
-## 通知权限
+## 权限提示
 
 默认禁用 - 点击放弃通知
 

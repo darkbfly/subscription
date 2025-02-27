@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.feicui.vdhelper](/src/apps/com.feicui.vdhelper.ts)
 
-## 首页广告弹窗
+## 卡片式广告
 
 默认禁用
 

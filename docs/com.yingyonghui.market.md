@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.yingyonghui.market](/src/apps/com.yingyonghui.market.ts)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 4 规则组 - [com.cmbchina.ccd.pluto.cmbActivity](/src/apps/com.cmbchina.ccd.pluto.cmbActivity.ts)
 
-## 版本更新
+## 更新提示
 
 默认禁用
 
@@ -10,7 +10,7 @@
 - [快照-1](https://i.gkd.li/import/12727203)
 - [快照-2](https://i.gkd.li/import/13345771)
 
-## 首页弹窗
+## 卡片式广告
 
 默认禁用
 

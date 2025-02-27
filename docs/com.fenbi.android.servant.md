@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.fenbi.android.servant](/src/apps/com.fenbi.android.servant.ts)
 
-## 升级弹窗
+## 卡片式广告
 
 默认禁用
 

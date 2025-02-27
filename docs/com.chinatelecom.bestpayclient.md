@@ -2,13 +2,13 @@
 
 存在 4 规则组 - [com.chinatelecom.bestpayclient](/src/apps/com.chinatelecom.bestpayclient.ts)
 
-## 版本更新
+## 更新提示
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13391544)
 
-## 弹窗广告
+## 卡片式广告
 
 默认禁用
 
@@ -25,7 +25,7 @@
 
 - [快照-0](https://i.gkd.li/import/13402711)
 
-## 年底积分活动弹窗
+## 卡片式广告
 
 默认禁用
 

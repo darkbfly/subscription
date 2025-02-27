@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.jc.avatar.mm](/src/apps/com.jc.avatar.mm.ts)
 
-## 广告弹窗
+## 卡片式广告
 
 默认禁用
 

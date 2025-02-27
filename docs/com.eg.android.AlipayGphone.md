@@ -2,7 +2,7 @@
 
 存在 7 规则组 - [com.eg.android.AlipayGphone](/src/apps/com.eg.android.AlipayGphone.ts)
 
-## 更新提示-关闭花呗升级弹窗
+## 卡片式广告
 
 默认禁用
 
@@ -13,20 +13,20 @@
 - [快照-4](https://i.gkd.li/import/13631362)
 - [快照-5](https://i.gkd.li/import/13857535)
 
-## 定位提示-请求定位权限弹窗
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/12792688)
 
-## 通知提示-请求通知弹窗
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13194955)
 - [快照-1](https://i.gkd.li/import/13669620)
 
-## 更新提示-版本更新弹窗
+## 更新提示
 
 默认禁用
 

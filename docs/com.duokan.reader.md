@@ -2,13 +2,13 @@
 
 存在 4 规则组 - [com.duokan.reader](/src/apps/com.duokan.reader.ts)
 
-## 首页-广告弹窗
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13248773)
 
-## 小说推荐弹窗
+## 卡片式广告
 
 默认禁用
 

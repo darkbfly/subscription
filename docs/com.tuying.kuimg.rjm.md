@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.tuying.kuimg.rjm](/src/apps/com.tuying.kuimg.rjm.ts)
 
-## 广告弹窗
+## 卡片式广告
 
 默认禁用
 

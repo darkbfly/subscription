@@ -2,7 +2,7 @@
 
 存在 3 规则组 - [com.lphtsccft](/src/apps/com.lphtsccft.ts)
 
-## 首页广告弹窗
+## 卡片式广告
 
 默认禁用
 

@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.android.quicksearchbox](/src/apps/com.android.quicksearchbox.ts)
 
-## 局部广告-广告卡片
+## 卡片式广告
 
 默认禁用
 

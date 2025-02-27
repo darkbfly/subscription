@@ -2,7 +2,7 @@
 
 存在 1 规则组 - [com.tmri.app.main](/src/apps/com.tmri.app.main.ts)
 
-## 消息通知
+## 功能类-消息通知
 
 默认禁用
 

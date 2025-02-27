@@ -2,13 +2,13 @@
 
 存在 4 规则组 - [com.wm.dmall](/src/apps/com.wm.dmall.ts)
 
-## 首页-弹窗广告
+## 卡片式广告
 
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13197627)
 
-## 首页-浮窗广告
+## 卡片式广告
 
 默认禁用
 
