@@ -20,7 +20,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '点击广告卡片右上角',
+          name: '卡片式广告',
           matches:
             'ImageView - TextView[text="广告"][clickable=true][id!=null]',
           snapshotUrls: [
@@ -70,7 +70,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '点击广告卡片右上角[Sponsored]',
+          name: '卡片式广告',
           matches:
             'ImageView - TextView[text="Sponsored"][clickable=true][id!=null]',
           snapshotUrls: 'https://i.gkd.li/import/12905837',
@@ -103,7 +103,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '点击广告卡片右上角[廣告]',
+          name: '卡片式广告',
           matches:
             'ImageView - TextView[text="廣告"][clickable=true][id!=null]',
           snapshotUrls: 'https://i.gkd.li/import/13791200',
@@ -111,7 +111,7 @@ export default defineAppConfig({
         {
           preKeys: 0,
           key: 1,
-          name: '点击[關閉此廣告]',
+          name: '卡片式广告',
           matches: 'RelativeLayout[childCount=6] > TextView[text="關閉此廣告"]',
           snapshotUrls: 'https://i.gkd.li/import/13791202',
         },
@@ -231,7 +231,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 6,
-      name: '分段广告-订阅号文章广告',
+      name: '通知提示',
       desc: '⚠ 此规则有概率误触。自动点击关闭按钮，必须同时启用【订阅号文章广告反馈】规则',
       activityIds: [
         'com.tencent.mm.plugin.brandservice.ui.timeline.preload.ui.TmplWebView', //调整为TmplWebView, 同时兼容多种ID
@@ -289,7 +289,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 8,
-      name: '分段广告-订阅号文章广告反馈',
+      name: '通知提示',
       desc: '⚠ 此规则有概率误触。自动点击反馈理由，配合【订阅号文章广告】规则使用',
       activityIds:
         'com.tencent.mm.plugin.brandservice.ui.timeline.preload.ui.TmplWebView', //调整为TmplWebView, 同时兼容多种ID
@@ -495,7 +495,7 @@ export default defineAppConfig({
     },
     {
       key: 19,
-      name: '功能类-订阅号-展开更早的消息',
+      name: '通知提示',
       rules: [
         {
           key: 0,

@@ -65,7 +65,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '分段广告-好友动态-广告卡片',
+      name: '卡片式广告',
       rules: [
         {
           key: 0,
@@ -374,7 +374,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 18,
-      name: '更新提示-消息页面-顶部',
+      name: '更新提示',
       rules: [
         {
           key: 0,

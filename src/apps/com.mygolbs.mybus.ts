@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '广告卡片',
+      name: '卡片式广告',
       activityIds: [
         'com.mygolbs.mybus.RTimeActivity',
         'com.mygolbs.mybus.NewHomePageActivity',
@@ -15,7 +15,7 @@ export default defineAppConfig({
       ],
       rules: [
         {
-          name: '点击底部中间x关闭图标',
+          name: '局部广告',
           matches:
             '[id="com.mygolbs.mybus:id/ad_frameLayout"] RelativeLayout[childCount=4] > TextView[text.length>0] + ImageView + ImageView[clickable=true][id=null]',
           snapshotUrls: [

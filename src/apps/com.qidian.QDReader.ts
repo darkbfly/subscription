@@ -56,7 +56,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '请求通知权限提示信息',
+      name: '权限提示',
       desc: '点击顶部提醒左侧x按钮',
       quickFind: true,
       activityIds: 'com.afollestad.materialdialogs.MaterialDialog',

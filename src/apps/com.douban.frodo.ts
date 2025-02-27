@@ -233,7 +233,7 @@ export default defineAppConfig({
     },
     {
       key: 11, //与key12完全重复
-      name: '版本更新',
+      name: '更新提示',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,

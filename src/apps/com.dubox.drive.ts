@@ -32,7 +32,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '通知权限',
+      name: '权限提示',
       quickFind: true,
       activityIds: 'com.dubox.drive.permission.view.PermissionDialogActivity',
       rules:

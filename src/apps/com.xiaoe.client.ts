@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       key: 1,
       quickFind: true,
-      name: '更新提示-版本更新提示',
+      name: '更新提示',
       desc: '点击暂不更新',
       rules: [
         {

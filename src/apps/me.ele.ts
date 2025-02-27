@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '版本更新',
+      name: '更新提示',
       quickFind: true,
       // matchTime: 10000, 部分更新提示不在10s内
       actionMaximum: 1,

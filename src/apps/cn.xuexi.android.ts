@@ -14,7 +14,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '请求开启通知权限提示信息',
+      name: '权限提示',
       desc: '自动点击x按钮',
       activityIds: 'com.alibaba.android.rimet.biz.SplashActivity',
       rules:

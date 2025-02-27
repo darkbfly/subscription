@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '关闭更新提示',
+      name: '更新提示',
       activityIds: 'com.mc10086.cmcc.view.tabs.AppTabFragment',
       snapshotUrls: 'https://i.gkd.li/import/12534264',
       rules:

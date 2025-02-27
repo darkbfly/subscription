@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '广告卡片',
+      name: '卡片式广告',
       activityIds: 'com.mvvm.view.LazyMapStrategyActivity_TengXun',
       rules: [
         {

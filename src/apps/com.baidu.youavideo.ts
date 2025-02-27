@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 2,
-      name: '软件升级提醒',
+      name: '更新提示',
       activityIds: ['com.baidu.youavideo.home.view.HomeActivity'],
       quickFind: true,
       rules: [
@@ -92,7 +92,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '局部广告-广告卡片',
+      name: '卡片式广告',
       quickFind: true,
       rules: '[vid="iv_close"][visibleToUser=true]',
       snapshotUrls: 'https://i.gkd.li/import/13874124',

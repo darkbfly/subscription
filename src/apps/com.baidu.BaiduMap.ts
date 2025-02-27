@@ -93,7 +93,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 7,
-      name: '升级更新提示',
+      name: '更新提示',
       quickFind: true,
       activityIds: 'com.baidu.baidumaps.MapsActivity',
       rules: 'ImageView[id="com.baidu.BaiduMap:id/cancel_update"]',
@@ -102,7 +102,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 8,
-      name: '打开通知权限',
+      name: '权限提示',
       quickFind: true,
       activityIds: 'com.baidu.baidumaps.MapsActivity',
       rules:

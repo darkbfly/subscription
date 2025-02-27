@@ -21,7 +21,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '正文底部卡片广告',
+          name: '局部广告',
           activityIds:
             'com.gamersky.common.activity.LibDetailContentDetailActivity',
           matches: 'View[childCount=2] > [text="广告"] + View[clickable=true]',

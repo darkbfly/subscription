@@ -2,7 +2,7 @@ import { defineAppConfig } from '../types';
 
 export default defineAppConfig({
   id: 'com.lbe.security.miui',
-  name: '权限管理服务',
+  name: '权限提示',
   groups: [
     {
       key: 1,

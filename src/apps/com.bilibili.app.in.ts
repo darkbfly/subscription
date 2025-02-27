@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 5,
-      name: '评论区-满意度评价',
+      name: '通知提示',
       quickFind: true,
       activityIds: 'com.bilibili.video.story.StoryVideoActivity',
       rules:
@@ -23,7 +23,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '订阅感兴趣的通知',
+      name: '通知提示',
       desc: '点击【暂不开启】',
       quickFind: true,
 

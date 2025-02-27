@@ -58,7 +58,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '局部广告-底部横幅广告',
+      name: '局部广告',
       rules: [
         {
           activityIds: 'com.huawei.health.MainActivity',

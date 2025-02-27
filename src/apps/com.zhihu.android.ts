@@ -53,7 +53,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '分段广告-推荐页广告卡片',
+      name: '卡片式广告',
       desc: '赚稿费广告卡片,盐选推荐广告,知乎学课堂,汽车广告',
       rules: [
         {
@@ -118,7 +118,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '回答底部评论顶部的任意广告推荐',
+      name: '局部广告',
       activityIds: [
         'com.zhihu.android.mixshortcontainer.MixShortContainerActivity',
         'com.zhihu.android.app.ui.activity.HostActivity',

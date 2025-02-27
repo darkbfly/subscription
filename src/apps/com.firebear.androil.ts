@@ -48,7 +48,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '点击右上角[数字s|跳过]',
+          name: '功能类',
           matches: '[text="广告"] + View >4 [text="| 跳过"]',
           snapshotUrls: ['https://i.gkd.li/import/12864214'],
         },

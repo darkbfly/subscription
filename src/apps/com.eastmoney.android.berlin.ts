@@ -21,7 +21,7 @@ export default defineAppConfig({
     {
       enable: true,
       key: 10,
-      name: '请求通知权限提示信息',
+      name: '权限提示',
       activityIds: [
         'com.eastmoney.android.module.launcher.internal.home.HomeActivity',
       ],

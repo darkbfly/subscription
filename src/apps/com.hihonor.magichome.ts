@@ -23,7 +23,7 @@ export default defineAppConfig({
     },
     {
       key: 12,
-      name: '升级提示',
+      name: '更新提示',
       desc: '点击以后再说',
       activityIds: 'com.hihonor.magichome.business.MainActivity',
       quickFind: true,

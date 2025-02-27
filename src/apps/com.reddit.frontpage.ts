@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 3,
-      name: '社区消息-更新提示',
+      name: '更新提示',
       quickFind: true,
       enable: false,
       rules: [

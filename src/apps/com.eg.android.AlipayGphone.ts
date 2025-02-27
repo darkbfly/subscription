@@ -65,7 +65,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '首页底部提示',
+          name: '局部广告',
           activityIds: 'com.eg.android.AlipayGphone.AlipayLogin',
           matches:
             '@[desc="关闭"] - * >n [id="com.alipay.mobile.antui:id/tipTextView"][text^="开启通知权限"]',
@@ -85,7 +85,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '更新提示-版本更新提示',
+      name: '更新提示',
       actionMaximum: 1,
       resetMatch: 'app',
       quickFind: true,

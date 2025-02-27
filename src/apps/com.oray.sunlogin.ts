@@ -22,7 +22,7 @@ export default defineAppConfig({
     {
       matchTime: 30000,
       key: 1,
-      name: '更新提示-版本更新',
+      name: '更新提示',
       quickFind: true,
       rules: [
         {

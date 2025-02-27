@@ -13,7 +13,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '信息流、文章底部广告',
+      name: '局部广告',
       activityIds: [
         'com.seebaby.login.ui.activity.LauncherActivity',
         'com.seebaby.parent.article.ui.activity.NativeArticleDetailActivity',

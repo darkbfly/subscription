@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '阅读页面底部广告',
+      name: '局部广告',
       activityIds: 'org.geometerplus.android.fbreader.FBReader',
       rules:
         '[id="com.kmxs.reader:id/ll_ad_native_banner"] > [id="com.kmxs.reader:id/iv_ad_direct_close"]',
@@ -83,7 +83,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '点击跳过',
+          name: '功能类',
           matches: '[text*="跳过"][text.length<=10]',
           snapshotUrls: [
             'https://i.gkd.li/import/13459157',

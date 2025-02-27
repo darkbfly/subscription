@@ -30,7 +30,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '评论区广告卡片',
+      name: '卡片式广告',
       activityIds:
         'cn.xiaochuankeji.tieba.ui.post.postdetail.PostDetailActivity',
       rules: [

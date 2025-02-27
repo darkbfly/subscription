@@ -24,7 +24,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '广告卡片',
+      name: '卡片式广告',
       activityIds: 'com.tencent.docs.DocsFlutterActivity',
       rules: '[desc="限时购买"] + ImageView[clickable=true]',
       snapshotUrls: 'https://i.gkd.li/import/13198097',

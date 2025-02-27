@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '首页-底部广告',
+      name: '局部广告',
       activityIds: [
         'com.xuexiaoyi.entrance.main.MainActivity',
         'com.xuexiaoyi.platform.base.arch.RouterFragmentActivity',

@@ -21,7 +21,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '开屏广告-更新与已安装界面-查看更多',
+      name: '更新提示',
       desc: '在更新界面自动点击查看更多按钮，展开所有应用',
       rules: [
         {
@@ -39,7 +39,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '开屏广告-更新界面-软件推荐',
+      name: '更新提示',
       activityIds: [
         'com.apkpure.aegon.main.activity.MainTabActivity',
         'com.apkpure.aegon.main.activity.AppManagerActivity',

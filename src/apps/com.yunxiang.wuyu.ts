@@ -30,7 +30,7 @@ export default defineAppConfig({
           snapshotUrls: 'https://i.gkd.li/import/13455628',
         },
         {
-          name: '【跳过】型',
+          name: '功能类',
           matches: [
             'TextView[text="广告"]',
             '@ViewGroup > TextView[text="跳过"]',

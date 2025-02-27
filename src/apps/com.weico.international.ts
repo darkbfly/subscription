@@ -26,7 +26,7 @@ export default defineAppConfig({
         },
         {
           key: 0,
-          name: '点击广告卡片右上角[x]',
+          name: '卡片式广告',
           matches: '[id="com.weico.international:id/item_timeline_ad_action"]',
           snapshotUrls: [
             'https://i.gkd.li/import/12505753',

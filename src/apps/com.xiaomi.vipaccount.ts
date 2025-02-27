@@ -14,7 +14,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '评论区广告卡片',
+      name: '卡片式广告',
       activityIds: 'com.xiaomi.vipaccount.newbrowser.NormalWebActivity',
       rules: '[text="closeGray"][clickable=true]',
       snapshotUrls: 'https://i.gkd.li/import/12642459',

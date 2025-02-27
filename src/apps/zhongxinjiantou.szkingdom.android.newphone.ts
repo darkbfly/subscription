@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '通知权限',
+      name: '权限提示',
       desc: '点击放弃通知',
       quickFind: true,
       activityIds: 'com.szkingdom.android.phone.ZXJTUserMainActivity',

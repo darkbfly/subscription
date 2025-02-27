@@ -52,7 +52,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '升级提示',
+      name: '更新提示',
       activityIds: [
         'com.android.packageinstaller.permission.ui.GrantPermissionsActivity',
         'cn.wps.moffice.main.local.HomeRootActivity',
@@ -110,7 +110,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '首页-底部广告',
+      name: '局部广告',
       quickFind: true,
       activityIds: 'cn.wps.moffice.main.local.HomeRootActivity',
       rules: '[id="cn.wps.moffice_eng:id/home_banner_ad_spread_close"]',

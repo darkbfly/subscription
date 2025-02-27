@@ -196,7 +196,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '【下载页】广告卡片',
+      name: '卡片式广告',
       desc: '需选二次弹窗关闭原因',
       quickFind: true,
       rules: [

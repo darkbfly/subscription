@@ -65,7 +65,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '底部卡片广告',
+      name: '局部广告',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,

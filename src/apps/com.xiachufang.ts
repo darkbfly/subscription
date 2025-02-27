@@ -10,7 +10,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 1,
-          name: '菜谱底部卡片广告-1',
+          name: '局部广告',
           activityIds: 'com.xiachufang.activity.recipe.RecipeDetailActivity',
           quickFind: true,
           matches: '[id="com.xiachufang:id/ad_close"][visibleToUser=true]',
@@ -18,7 +18,7 @@ export default defineAppConfig({
         },
         {
           key: 2,
-          name: '菜谱底部卡片广告-2',
+          name: '局部广告',
           activityIds: 'com.xiachufang.activity.recipe.RecipeDetailActivity',
           quickFind: true,
           matches:
@@ -27,7 +27,7 @@ export default defineAppConfig({
         },
         {
           key: 3,
-          name: '菜谱底部卡片广告-1-弹出窗口',
+          name: '局部广告',
           activityIds: 'com.xiachufang.activity.recipe.RecipeDetailActivity',
           quickFind: true,
           matches: '[id="com.byted.pangle:id/tt_item_tv"][text="不感兴趣"]',
@@ -35,7 +35,7 @@ export default defineAppConfig({
         },
         {
           key: 4,
-          name: '菜谱底部卡片广告-3',
+          name: '局部广告',
           activityIds: 'com.xiachufang.activity.recipe.RecipeDetailActivity',
           quickFind: true,
           matches:

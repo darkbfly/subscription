@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 3,
-      name: '交友-底部广告',
+      name: '局部广告',
       activityIds: [
         'com.maxhom.weibu.tool.home.activity.NewMainActivity',
         'com.maxhom.weibu.WelcomeActivity',

@@ -43,7 +43,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '动态推荐广告卡片',
+      name: '卡片式广告',
       desc: '点击卡片右上角[广告]按钮-点击不感兴趣',
       quickFind: true,
       matchDelay: 5000,
@@ -65,7 +65,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 4,
-      name: '视频底部与评论区中间卡片式广告',
+      name: '局部广告',
       desc: '需点击二次弹窗 屏蔽原因',
       quickFind: true,
       activityIds: [
@@ -76,7 +76,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '点击广告卡片右侧菜单图标',
+          name: '卡片式广告',
           matches:
             'FrameLayout[id="tv.danmaku.bili:id/ad_tint_frame"] >n [id^="tv.danmaku.bili:id/more"]',
           snapshotUrls: [
@@ -183,7 +183,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '点击广告卡片右下角菜单按钮',
+          name: '卡片式广告',
           matches:
             '[id="tv.danmaku.bili:id/ad_tint_frame"] [id="tv.danmaku.bili:id/more"]',
           snapshotUrls: 'https://i.gkd.li/import/13256570',

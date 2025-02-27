@@ -124,12 +124,12 @@ export default defineAppConfig({
     {
       enable: false,
       key: 11,
-      name: '自动更新应用',
+      name: '更新提示',
       rules: [
         // 正常更新
         {
           key: 0,
-          name: '点击【继续更新】',
+          name: '更新提示',
           activityIds: [
             'com.miui.packageInstaller.ui.InstallPrepareAlertActivity',
             'com.miui.packageInstaller.NewInstallerPrepareActivity',
@@ -143,7 +143,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '点击【继续更新】',
+          name: '更新提示',
           activityIds: 'com.miui.packageInstaller.NewInstallerPrepareActivity',
           matches: '@[text="继续更新"] + [text="取消更新"]',
           snapshotUrls: [

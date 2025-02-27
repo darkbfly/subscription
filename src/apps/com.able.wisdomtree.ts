@@ -24,7 +24,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '升级提醒',
+      name: '更新提示',
       desc: '自动点击忽略。',
       quickFind: true,
       matchTime: 10000,

@@ -12,7 +12,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '点击广告卡片右上角x图标',
+          name: '卡片式广告',
           matches: '[id="com.sina.weibolite:id/item_timeline_ad_action"]',
           snapshotUrls: 'https://i.gkd.li/import/12738110',
         },

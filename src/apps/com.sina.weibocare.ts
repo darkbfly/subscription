@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '流量继续播放视频',
+      name: '通知提示',
       desc: '点击[播放]',
       quickFind: true,
       activityIds: 'com.weico.international.activity.MainFragmentActivity',

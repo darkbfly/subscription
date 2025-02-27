@@ -63,7 +63,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '关闭更新提示',
+      name: '更新提示',
 
       quickFind: true,
       actionMaximum: 1,

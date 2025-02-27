@@ -15,7 +15,7 @@ export default defineAppConfig({
         {
           key: 0,
           quickFind: true,
-          name: '【跳过+倒计时】型',
+          name: '功能类',
           matches: 'TextView[text^="跳过"][text.length<=10]',
           snapshotUrls: [
             'https://i.gkd.li/import/12775906',
@@ -26,7 +26,7 @@ export default defineAppConfig({
         },
         {
           key: 1,
-          name: '【圆圈跳过】型-来自穿山甲SDK',
+          name: '功能类',
           matches: '[id="com.byted.pangle:id/tt_splash_skip_btn"]',
           snapshotUrls: 'https://i.gkd.li/import/13322227',
         },
@@ -140,7 +140,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 8,
-      name: '帖子底部内容推荐卡片',
+      name: '局部广告',
       desc: '关闭时弹窗选原因',
       activityIds: 'com.baidu.tieba.pb.pb.main.PbActivity',
       rules: [

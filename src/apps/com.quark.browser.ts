@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '小说阅读页面底部广告',
+      name: '局部广告',
       activityIds: 'com.ucpro.BrowserActivity',
       rules: [
         '[id=`com.quark.browser:id/tv_close_ad`][text=`关闭广告`]',

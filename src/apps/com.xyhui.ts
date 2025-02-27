@@ -114,7 +114,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '升级提示',
+      name: '更新提示',
       quickFind: true,
       activityIds: [
         'com.xyhui.start.PUMainActivity',

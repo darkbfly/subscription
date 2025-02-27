@@ -71,7 +71,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '文章底部卡片式广告',
+      name: '局部广告',
       quickFind: true,
       activityIds:
         'com.ss.android.article.base.feature.detail2.view.NewDetailActivity',

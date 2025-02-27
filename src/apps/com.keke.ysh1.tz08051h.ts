@@ -14,7 +14,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 1,
-          name: '网址更新',
+          name: '更新提示',
           quickFind: true,
           matches:
             'TextView[text="可可影视"] < LinearLayout >n @TextView[text*="知道了"]',

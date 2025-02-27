@@ -47,7 +47,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '版本更新',
+      name: '更新提示',
       quickFind: true,
       activityIds: 'com.taptap.upgrade.library.dialog.UpgradeDialogAct',
       rules: [

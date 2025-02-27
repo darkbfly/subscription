@@ -43,7 +43,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '播放页面-底部推荐列表-夹杂广告',
+      name: '局部广告',
       desc: '点击关闭-点击屏蔽',
       quickFind: true,
       rules: [
@@ -133,7 +133,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '关闭更新提示',
+      name: '更新提示',
       quickFind: true,
       rules: '[id="com.ximalaya.ting.android:id/host_tv_update_later"]',
       snapshotUrls: 'https://i.gkd.li/import/12506287',

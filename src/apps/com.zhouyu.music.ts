@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '搜索底部广告',
+      name: '局部广告',
       quickFind: true,
 
       activityIds: 'com.zhouyu.music.activities.MainActivity',

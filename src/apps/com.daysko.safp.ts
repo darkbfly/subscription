@@ -73,7 +73,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '谷歌广告-页面底部广告',
+      name: '局部广告',
       activityIds: 'com.daysko.safp.MainActivity',
       rules: [
         {

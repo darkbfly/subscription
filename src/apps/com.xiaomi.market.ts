@@ -19,7 +19,7 @@ export default defineAppConfig({
     },
     {
       key: 9,
-      name: '应用升级界面-顶部广告横幅',
+      name: '更新提示',
       quickFind: true,
       activityIds: 'com.xiaomi.market.ui.UpdateListActivity',
       rules: '[id="com.xiaomi.market:id/iv_close_tip"]',
@@ -28,7 +28,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 10,
-      name: '忽略升级',
+      name: '更新提示',
       quickFind: true,
       desc: '应用升级界面-自动点击忽略',
       exampleUrls:

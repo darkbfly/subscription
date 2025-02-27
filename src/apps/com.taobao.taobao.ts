@@ -130,7 +130,7 @@ export default defineAppConfig({
     },
     {
       key: 12,
-      name: '版本更新',
+      name: '更新提示',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,
@@ -172,7 +172,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 15,
-      name: '开启悬浮窗权限',
+      name: '权限提示',
       desc: '点击“否”',
       activityIds:
         'com.taobao.android.detail2.core.framework.floatwindow.permission.PermissionActivity',
@@ -190,7 +190,7 @@ export default defineAppConfig({
     },
     {
       key: 16,
-      name: '全屏广告-花呗升级报送征信',
+      name: '更新提示',
       quickFind: true,
       matchTime: 10000,
       actionMaximum: 1,

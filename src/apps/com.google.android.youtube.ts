@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 0,
-      name: '视频播放-跳过广告',
+      name: '功能类',
       activityIds: [
         'com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity',
         'com.google.android.apps.youtube.app.watchwhile.MainActivity',

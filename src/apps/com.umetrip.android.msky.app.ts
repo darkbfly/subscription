@@ -17,7 +17,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 9,
-      name: '首页-升级提示',
+      name: '更新提示',
       quickFind: true,
       activityIds: [
         'com.miui.home.launcher.Launcher',

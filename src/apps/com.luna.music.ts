@@ -49,7 +49,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '等待30s点击【跳过】',
+          name: '功能类',
           actionDelay: 30000,
           matches: 'WebView > WebView > View TextView[text="| 跳过"]',
           snapshotUrls: [

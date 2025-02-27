@@ -2,12 +2,12 @@ import { defineAppConfig } from '../types';
 
 export default defineAppConfig({
   id: 'com.android.updater',
-  name: '系统更新',
+  name: '更新提示',
   groups: [
     {
       enable: false,
       key: 0,
-      name: 'MIUI更新提示',
+      name: '更新提示',
       activityIds: [
         'com.android.updater.MainActivity',
         'com.android.settings.SubSettings',

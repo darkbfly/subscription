@@ -20,7 +20,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '阅读页面底部广告',
+      name: '局部广告',
       desc: '点击关闭x图标-关闭优惠券弹窗-关闭当前广告',
       rules: [
         {
@@ -56,7 +56,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '听书页面底部广告',
+      name: '局部广告',
       desc: '点击卡片右上角关闭按钮-点击底部中间<关闭当前广告>',
       activityIds: 'com.shuqi.audio.online.view.AudioBookActivity',
       rules: [

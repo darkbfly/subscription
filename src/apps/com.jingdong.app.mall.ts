@@ -118,7 +118,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 6,
-      name: '局部广告-底部横幅广告',
+      name: '局部广告',
       activityIds: 'com.jingdong.app.mall.MainFrameActivity',
       rules: 'ImageView < FrameLayout - FrameLayout > ImageView[desc="关闭"]',
       snapshotUrls: [

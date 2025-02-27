@@ -32,7 +32,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '包裹页面-地图底部横条广告',
+      name: '局部广告',
       activityIds: [
         'com.taobao.cainiao.logistic.ui.view.LogisticDetailActivity',
       ],
@@ -41,7 +41,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '升级提示',
+      name: '更新提示',
       enable: false,
       quickFind: true,
       activityIds: [

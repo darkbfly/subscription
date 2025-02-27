@@ -27,7 +27,7 @@ export default defineAppConfig({
     },
     {
       key: 10,
-      name: '指数页面-底部产品广告',
+      name: '局部广告',
       activityIds: ['com.hexin.plat.android'],
       rules: [
         {

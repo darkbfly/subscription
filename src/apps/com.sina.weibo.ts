@@ -223,7 +223,7 @@ export default defineAppConfig({
     },
     {
       key: 15,
-      name: '评论区底部-账号推荐关注悬浮窗',
+      name: '局部广告',
       desc: '点击【x】',
       quickFind: true,
       activityIds: 'com.sina.weibo.feed.DetailWeiboActivity',
@@ -233,7 +233,7 @@ export default defineAppConfig({
     },
     {
       key: 16,
-      name: '评论区底部-转发推荐悬浮窗',
+      name: '局部广告',
       desc: '点击【x】',
       quickFind: true,
       activityIds: 'com.sina.weibo.feed.DetailWeiboActivity',

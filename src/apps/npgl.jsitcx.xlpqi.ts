@@ -30,7 +30,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '应用内第三方 SDK 广告卡片',
+      name: '卡片式广告',
       activityIds: [
         'flc.ast.HomeActivity',
         'com.bytedance.sdk.openadsdk.stub.activity.Stub_Standard_Portrait_Activity',

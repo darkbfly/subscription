@@ -21,7 +21,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '支付完成界面广告卡片',
+      name: '卡片式广告',
       quickFind: true,
       activityIds: 'com.unionpay.activity.react.UPActivityReactNative',
       rules: [

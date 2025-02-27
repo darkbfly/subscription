@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '权限提醒',
+      name: '权限提示',
       activityIds: 'com.xiaomi.fitness.main.MainActivity',
       actionMaximum: 1,
       resetMatch: 'app',
@@ -40,7 +40,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '版本更新',
+      name: '更新提示',
       actionMaximum: 1,
       resetMatch: 'app',
       quickFind: true,

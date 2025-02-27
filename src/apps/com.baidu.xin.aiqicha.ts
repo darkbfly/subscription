@@ -28,7 +28,7 @@ export default defineAppConfig({
     },
     {
       key: 11,
-      name: '请求通知权限提示信息',
+      name: '权限提示',
       desc: '自动点击x按钮',
       activityIds: 'com.baidu.newbridge.fast.MainFastActivity',
       rules: '@[id="com.baidu.xin.aiqicha:id/close"] +2 [text="打开消息通知"]',
