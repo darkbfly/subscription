@@ -52,9 +52,9 @@ const categories: RawCategory[] = [
     // 非广告, 点击某些功能按钮
   },
   {
-    key: 9,
+    key: 10,
     name: '卡片式广告',
-    // 非广告, 点击某些功能按钮
+    // 卡片式广告
   },
 ];
 
