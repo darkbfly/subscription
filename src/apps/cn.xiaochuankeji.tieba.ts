@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新提示',
+      name: '更新弹窗',
       activityIds: 'cn.xiaochuankeji.tieba.ui.home.setting.SettingActivity',
       rules: [
         {

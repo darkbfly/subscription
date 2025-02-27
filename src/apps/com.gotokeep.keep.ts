@@ -32,7 +32,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '分段广告',
+      name: '首页信息流广告',
       activityIds:
         'com.gotokeep.keep.refactor.business.main.activity.MainActivity',
       rules:

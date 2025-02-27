@@ -16,7 +16,7 @@ export default defineAppConfig({
     },
     {
       key: 1,
-      name: '更新提示',
+      name: '更新弹窗',
       actionMaximum: 1,
       activityIds: 'com.tencent.docs.DocsFlutterActivity',
       rules: '@[desc="暂不更新"] + [desc="现在更新"]',

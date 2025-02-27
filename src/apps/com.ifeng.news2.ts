@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '分段广告',
+      name: '信息流广告',
       activityIds: 'com.ifeng.news2.activity.IfengTabMainActivity',
       rules: [
         {

@@ -7,7 +7,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新提示',
+      name: '更新弹窗',
       activityIds: [
         'com.cnki.view.core.navigator.main.HomeActivity',
         'com.cnki.view.core.tramp.main.SplashActivity',

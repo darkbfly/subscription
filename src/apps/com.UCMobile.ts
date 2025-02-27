@@ -25,7 +25,7 @@ export default defineAppConfig({
     },
     {
       key: 0,
-      name: '分段广告',
+      name: '信息流广告',
       activityIds: 'com.uc.browser.InnerUCMobile',
       rules: [
         {

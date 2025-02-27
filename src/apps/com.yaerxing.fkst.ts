@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新提示',
+      name: '更新弹窗',
       activityIds: [
         'com.yaerxing.fkst.activity.MainActivity',
         'com.yaerxing.fkst.activity.SplashActivity',

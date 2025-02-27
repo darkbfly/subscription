@@ -22,7 +22,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '更新提示',
+      name: '更新弹窗',
       actionMaximum: 1,
       resetMatch: 'app',
       quickFind: true,

@@ -51,7 +51,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 3,
-      name: '分段广告',
+      name: '信息流广告',
       desc: '首页动态/推荐,小组讨论列表,帖子底部,点击广告关闭后出现关闭原因底部菜单-点击不感兴趣',
       quickFind: true,
       activityIds: [
@@ -65,7 +65,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 1,
-          name: '分段广告',
+          name: '首页-动态-信息流广告',
           activityIds: [
             'com.douban.frodo.activity.SplashActivity',
             'com.douban.frodo.status.activity.StatusDetailActivity',
@@ -80,7 +80,7 @@ export default defineAppConfig({
         },
         {
           key: 2,
-          name: '分段广告',
+          name: '小组-帖子列表信息流广告',
           activityIds: [
             'com.douban.frodo.group.activity.GroupDetailActivity',
             'com.douban.frodo.activity.SplashActivity',

@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新提示',
+      name: '更新弹窗',
       activityIds: [
         'com.zhengnengliang.precepts.ui.activity.MainActivity',
         'com.zhengnengliang.precepts.ui.dialog.DialogTwoButton',

@@ -17,7 +17,7 @@ export default defineAppConfig({
     {
       key: 2,
       enable: false,
-      name: '更新提示',
+      name: '更新弹窗',
       matchTime: 10000,
       actionMaximum: 1,
       resetMatch: 'app',

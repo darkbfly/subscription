@@ -22,7 +22,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '分段广告',
+      name: '信息流广告',
       quickFind: true,
       activityIds: 'cn.xiaochuankeji.zuiyouLite.ui.slide.ActivitySlideDetail',
       rules: [

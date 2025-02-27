@@ -22,7 +22,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '更新提示',
+      name: '更新弹窗',
       quickFind: true,
       actionMaximum: 1,
       activityIds: 'com.hd.smartVillage.modules.main.MainActivity',

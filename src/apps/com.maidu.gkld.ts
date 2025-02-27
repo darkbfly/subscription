@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '更新提示',
+      name: '更新弹窗',
       activityIds: 'com.maidu.gkld.ui.main.MainActivity',
       rules: '[id="com.maidu.gkld:id/tv_update_next"]',
       snapshotUrls: 'https://i.gkd.li/import/12715215',

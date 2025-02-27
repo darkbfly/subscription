@@ -27,7 +27,7 @@ export default defineAppConfig({
       rules: [
         {
           key: 0,
-          name: '分段广告',
+          name: '信息流广告',
           quickFind: true,
           matches: '[vid="time_line_type"] <<n * > * > [vid="rl_down"]',
           snapshotUrls: 'https://i.gkd.li/import/13852023',
