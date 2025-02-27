@@ -1,7 +1,7 @@
 import { defineAppConfig } from '../types';
 
 export default defineAppConfig({
-  id: 'cn.kuwo.player	',
+  id: 'cn.kuwo.player',
   name: '酷我音乐',
   groups: [
     {
